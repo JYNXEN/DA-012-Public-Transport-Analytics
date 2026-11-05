@@ -1,269 +1,407 @@
-# DA-012 — Public Transport Ridership Analysis
+# CatTracks Ridership Intelligence
+### DA-012 — Public Transport Ridership Analysis
 
-**Subject:** Data Analytics  
-**Project ID:** DA-012  
-**Case study:** UC Merced CatTracks campus bus system  
-**Tools:** Python, Pandas, NumPy, Matplotlib, Plotly, Streamlit, OpenPyXL, Jupyter Notebook
+An interactive data analytics and geospatial visualization project exploring historical passenger boarding patterns across the UC Merced CatTracks campus bus network.
 
-## Project overview
+**Developed as part of the B.Tech Computer Science & Engineering curriculum at Invertis University, Bareilly.**
 
-This project analyses aggregate passenger boarding data from the University of California, Merced's CatTracks bus system. It focuses on four weekday routes — C1 Blue, C1 Gold, C2 Express, and G-Line — and compares two billing periods represented in the source workbooks: October 2018 and February 2019.
+<p align="center">
+  <strong>Project ID:</strong> DA-012 &nbsp; | &nbsp;
+  <strong>Group:</strong> BTech_DA_08 &nbsp; | &nbsp;
+  <strong>Semester:</strong> III
+</p>
 
-The analysis converts the workbooks' aggregate `PAX ON` tables into a tidy dataset and examines route-level demand, stop-level demand, scheduled departure-time patterns, and peak versus off-peak boardings.
+---
 
-## Project objectives
+## Overview
 
-1. Load and inspect public bus ridership workbooks.
-2. Extract and clean aggregate passenger boarding counts.
-3. Compare recorded demand across four routes and two billing periods.
-4. Identify stops with the highest recorded boarding counts.
-5. Examine demand by scheduled departure time.
-6. Compare boarding totals in predefined peak and off-peak windows.
-7. Present findings using reproducible tables and visualisations.
+CatTracks Ridership Intelligence is a Python-based public transportation analytics application designed to explore, analyse and visualize historical passenger boarding patterns across the University of California, Merced campus bus network.
 
-## Repository structure
+The project uses historical CatTracks billing workbooks from October 2018 and February 2019 to investigate passenger demand across four weekday bus routes:
 
-```text
-DA-012-Public-Transport-Analytics/
-├── data/
-│   ├── CATTRACKS Fall 2018- October Billing.xlsx
-│   ├── 219-CATTRACKS Fall 2019- February Billing.xlsx
-│   ├── team_members.csv            # Public names/roles only
-│   └── team_members_private.csv    # Local-only IDs/roll numbers; Git-ignored
-├── app.py                         # Interactive Streamlit dashboard
-├── .streamlit/
-│   └── config.toml                # Dashboard theme
-├── DASHBOARD_GUIDE.md              # Dashboard setup and usage
-├── GEOSPATIAL_DATA_NOTES.md        # Map source/date/accuracy notes
-├── MAP_WORKSPACE_GUIDE.md         # Map-led interactive workflow
-├── notebooks/
-│   └── DA012_Ridership_Analysis.ipynb
-├── outputs/
-│   ├── charts/
-│   └── tables/
-├── src/
-│   ├── ridership_analysis.py
-│   └── geospatial.py               # GTFS and historical stop geocoding
-├── tests/
-│   ├── test_analysis.py
-│   └── test_geospatial.py
-├── upstream_reference/
-│   ├── notebooks/
-│   ├── src/
-│   └── UPSTREAM_README.md
-├── DATA_DICTIONARY.md
-├── LICENSE
-├── NOTICE.md
-├── README.md
-├── requirements.txt
-└── run_analysis.py
+- C1 Blue
+- C1 Gold
+- C2 Express
+- G-Line
+
+The application combines data processing, exploratory data analysis, interactive visualizations and geospatial exploration in a single interface.
+
+Rather than relying exclusively on static charts, the project introduces an interactive map-based analytical workspace where users can explore geographical stop locations, compare passenger demand and investigate route-level patterns.
+
+## Key Features
+
+### 1. Interactive Analytics Dashboard
+
+- Overview of recorded passenger boardings.
+- Route-wise ridership comparisons.
+- Billing-period comparisons.
+- Busiest bus-stop identification.
+- Scheduled departure-time analysis.
+- Peak and off-peak demand comparison.
+- Interactive charts and data visualizations.
+
+### 2. Geospatial Analysis
+
+- Interactive geographical map using OpenStreetMap.
+- Historical bus-stop location exploration.
+- Route-based geographical filtering.
+- Passenger demand heatmap using recorded boarding counts.
+- Interactive bus-stop markers.
+- Stop-level ridership inspection.
+- Map appearance controls.
+- Geographical data coverage indicators.
+
+**Geospatial data note:** The historical Excel workbooks contain bus-stop names but do not provide exact latitude/longitude coordinates or vector route geometries. Historical stop locations are therefore resolved using OpenStreetMap geocoding and must be treated as approximate matches, not surveyed bus-stop coordinates.
+
+### 3. Route Intelligence
+
+- Compare demand across all four routes.
+- Examine individual route performance.
+- Identify high-demand stops.
+- Explore route-level boarding patterns.
+- Compare historical billing periods.
+
+### 4. Temporal Analysis
+
+- Departure-hour demand analysis.
+- Morning and evening demand comparisons.
+- Peak versus off-peak analysis.
+- Distribution of passenger boardings across scheduled departure times.
+
+### 5. Interactive Data Explorer
+
+- Browse processed ridership observations.
+- Filter records using dashboard selections.
+- Examine passenger boarding counts.
+- Export filtered analytical data as CSV.
+
+### 6. Project Team & Documentation
+
+- Project identification and academic details.
+- Project team information.
+- Methodology and data dictionary.
+- Source attribution and project limitations.
+
+---
+
+## Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Core programming language |
+| Pandas | Data processing and analysis |
+| NumPy | Numerical operations |
+| Matplotlib | Statistical visualizations |
+| Plotly | Interactive charts |
+| Streamlit | Interactive web application |
+| Folium | Geographical mapping |
+| Streamlit-Folium | Map integration with Streamlit |
+| OpenStreetMap | Geographical basemap and geocoding |
+| GeoPandas / Geospatial tools | Geographical data processing where applicable |
+| Jupyter Notebook | Exploratory analysis and experimentation |
+| OpenPyXL | Excel workbook processing |
+
+---
+
+## Dataset Information
+
+The project uses two historical CatTracks billing workbooks:
+
+| Dataset | Billing period |
+|---|---|
+| CATTRACKS Fall 2018 | October 2018 |
+| CATTRACKS Fall 2019 | February 2019 |
+
+The analysis focuses on four weekday route worksheets:
+
+- C1 BLUE
+- C1-GOLD
+- C2 - EXPRESS
+- G-Line
+
+### Processed Dataset
+
+The extraction and cleaning pipeline produces a structured dataset containing:
+
+- Period
+- Route
+- Bus stop
+- Scheduled departure time
+- Passenger boarding count
+- Source workbook
+- Departure hour
+- Time band
+- Peak/off-peak classification
+
+The current processed dataset contains 1,114 ridership observations.
+
+### Example Analytical Results
+
+Combined recorded boarding totals across the two billing periods:
+
+| Route | October 2018 | February 2019 |
+|---|---:|---:|
+| C1 Blue | 5,976 | 4,304 |
+| C1 Gold | 5,829 | 4,005 |
+| C2 Express | 13,552 | 12,053 |
+| G-Line | 5,261 | 6,299 |
+| **Total** | **30,618** | **26,661** |
+
+These values represent recorded boardings, not unique individual passengers.
+
+The billing periods are not normalized by operating days, so their totals should not be interpreted as a direct growth or decline measurement.
+
+---
+
+## Geospatial Data & Route Mapping
+
+The geospatial component uses OpenStreetMap-based geographical lookups to associate historical bus-stop labels with approximate geographical locations.
+
+The application also supports a separate current-network reference using GTFS (General Transit Feed Specification) data, where a usable feed and route geometry are available.
+
+**Important distinction:**
+
+The historical ridership observations belong to 2018–2019, whereas the available newer GTFS network represents later service information.
+
+These geographical datasets are kept separate to avoid presenting current routes as verified historical routes.
+
+Historical route geometry is not included in the original Excel workbooks. Any reconstructed historical route path must be explicitly labelled as reconstructed rather than exact.
+
+---
+
+## Installation & Setup
+
+### Prerequisites
+
+- Python 3.11 or newer recommended.
+- Git.
+- pip.
+- A modern web browser.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/JYNXEN/DA-012-Public-Transport-Analytics.git
+
+cd DA-012-Public-Transport-Analytics
 ```
 
-## Setup and execution
-
-Python 3.10 or newer is recommended.
-
-### 1. Create and activate a virtual environment
+### 2. Create a virtual environment
 
 **macOS / Linux**
 
 ```bash
 python3 -m venv .venv
+```
+
+Activate it:
+
+```bash
 source .venv/bin/activate
 ```
 
 **Windows**
 
-```powershell
-py -m venv .venv
+```bash
+python -m venv .venv
+```
+
+Activate it:
+
+```bash
 .venv\Scripts\activate
 ```
 
-### 2. Install dependencies
+### 3. Install dependencies
 
 ```bash
 python -m pip install --upgrade pip
-pip install -r requirements.txt
+
+python -m pip install -r requirements.txt
 ```
 
-### 3. Run the complete analysis
-
-From the repository root:
+### 4. Run the analytical pipeline
 
 ```bash
 python run_analysis.py
 ```
 
-The script creates CSV summary tables in `outputs/tables/` and PNG charts in `outputs/charts/`.
+The script processes the historical Excel datasets and generates analytical CSV tables and charts inside the `outputs/` directory.
 
-To run the extraction regression checks:
-
-```bash
-python -m unittest discover -s tests
-```
-
-### 4. Launch the interactive dashboard
-
-```bash
-streamlit run app.py
-```
-
-The dashboard opens in your browser at a local address (normally `http://localhost:8501`). Use the sidebar to filter by billing period, route, time-of-day band, peak/off-peak classification, and scheduled departure hour. The dashboard includes an author-branded interface, KPI cards, generated insights, interactive route and stop comparisons, time-pattern charts, a route-by-hour heatmap, and a searchable CSV data explorer. Filters update the displayed metrics and visualisations. See `DASHBOARD_GUIDE.md` for details.
-
-### 5. Open the Jupyter Notebook
-
-```bash
-jupyter notebook notebooks/DA012_Ridership_Analysis.ipynb
-```
-
-Run the notebook cells from top to bottom. The notebook and dashboard use the same data-extraction module.
-
-
-## Dashboard author
-
-The adapted DA-012 dashboard displays the project author as **Shoaib**. The author credit appears in the dashboard header, sidebar, and footer.
-
-## Interactive dashboard
-
-The Streamlit dashboard is branded for the DA-012 student project and displays the author credit **Shoaib**. Its filters update five KPI cards, generated selection-specific insights, route/stop comparisons, time-of-day charts, a route-by-hour heatmap, and the searchable data explorer. Filtered records can be downloaded as CSV.
-
-Launch it from the project root after activating `.venv`:
+### 5. Launch the interactive dashboard
 
 ```bash
 python -m streamlit run app.py
 ```
 
-See `DASHBOARD_GUIDE.md` for details.
+Open the local application:
+
+```text
+http://localhost:8501
+```
+
+The dashboard runs locally on your computer.
+
+### 6. Open the Jupyter Notebook
+
+```bash
+jupyter notebook notebooks/DA012_Ridership_Analysis.ipynb
+```
+
+You can also open the notebook through JupyterLab and execute its cells individually.
+
+### 7. Run automated tests
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+---
+
+## Project Structure
+
+```text
+DA-012-Public-Transport-Analytics/
+│
+├── app.py
+│
+├── run_analysis.py
+│
+├── requirements.txt
+│
+├── README.md
+│
+├── LICENSE
+│
+├── NOTICE.md
+│
+├── .gitignore
+│
+├── data/
+│   ├── Historical Excel datasets
+│   └── Public project metadata
+│
+├── notebooks/
+│   └── DA012_Ridership_Analysis.ipynb
+│
+├── src/
+│   ├── Ridership analysis
+│   ├── Data extraction
+│   └── Geospatial processing
+│
+├── outputs/
+│   ├── charts/
+│   └── tables/
+│
+├── tests/
+│
+├── docs/
+│
+└── upstream_reference/
+```
+
+---
 
 ## Methodology
 
-### Data extraction
+The project follows a reproducible data analytics workflow:
 
-The supplied Excel worksheets contain several side-by-side weekday blocks and an aggregate `PAX ON` table. The original notebooks use fixed column slices that are difficult to maintain. This adaptation detects the right-most aggregate table dynamically, reads its scheduled departure-time columns, and converts the stop-level values into a tidy Pandas DataFrame.
+1. **Data Collection:** Obtain the historical UC Merced CatTracks Excel billing workbooks.
+2. **Data Inspection:** Examine the workbook structure, route worksheets and aggregate passenger boarding tables.
+3. **Data Extraction:** Extract the relevant PAX ON aggregate tables.
+4. **Data Cleaning:** Standardize stop labels, handle missing or invalid values and prepare structured records.
+5. **Feature Engineering:** Derive departure-hour and time-band information and classify peak/off-peak periods.
+6. **Exploratory Data Analysis:** Calculate route-wise, stop-wise and time-based passenger boarding summaries.
+7. **Visualization:** Generate analytical charts, comparisons and geographical demand visualizations.
+8. **Interpretation:** Identify demand patterns while acknowledging the limitations of the historical datasets.
 
-### Data preparation
+### Peak-Hour Definition
 
-- Normalise route labels and whitespace in stop names.
-- Convert Excel time codes (for example, `545`) into `HH:MM` strings.
-- Convert passenger counts to numeric values.
-- Exclude missing, non-numeric, negative, and zero-count observations from the tidy analysis table.
-- Combine repeated stop names within the same route, billing period, and departure time.
-- Derive time bands and a Peak / Off-peak label.
+For the purposes of this project, peak periods are defined as:
 
-### Peak-hour definition
+- Morning peak: 07:00–09:59
+- Evening peak: 16:00–18:59
 
-For this analysis, peak windows are predefined as **07:00–09:59** and **16:00–18:59**. All other departure times are classified as off-peak. These windows are explicit project assumptions and can be changed in `src/ridership_analysis.py`.
+These are analytical assumptions used for comparison, not official CatTracks peak-hour definitions.
 
-## Visualisation previews
-
-**Route comparison**
-
-![Passenger boardings by route](outputs/charts/01_route_ridership_comparison.png)
-
-**Busiest stops**
-
-![Top ten stops](outputs/charts/02_top_10_stops.png)
-
-**Demand by departure time**
-
-![Departure-time demand](outputs/charts/03_demand_by_departure_time.png)
-
-**Peak versus off-peak**
-
-![Peak and off-peak comparison](outputs/charts/04_peak_vs_offpeak.png)
-
-**Route demand share**
-
-![Route share](outputs/charts/05_route_share.png)
-
-## Visualisations
-
-The run creates five charts:
-
-1. Passenger boardings by bus route and billing period.
-2. Top 10 stops by recorded passenger boardings.
-3. Passenger demand by scheduled departure time.
-4. Peak versus off-peak boardings by route.
-5. Share of recorded boardings by route.
-
-### Current analysis outputs
-
-The extracted route totals are:
-
-| Billing period | C1 Blue | C1 Gold | C2 Express | G-Line | All four routes |
-|---|---:|---:|---:|---:|---:|
-| October 2018 | 5,976 | 5,829 | 13,552 | 5,261 | 30,618 |
-| February 2019 | 4,304 | 4,005 | 12,053 | 6,299 | 26,661 |
-
-These values were checked against the corresponding `TOTAL` column in each workbook's aggregate `PAX ON` table. All eight route-period totals matched.
-
-The figures above are recorded billing-period totals. They are **not normalised for the number of operating days**, so they should not be presented as evidence of month-on-month growth or decline.
+---
 
 ## Limitations
 
-- The analysis covers four selected weekday routes, not the entire CatTracks network.
-- The supplied data are historical billing-period aggregates, not real-time or passenger-level records.
-- The workbook's aggregate table does not provide enough information here to make a daily or weekend-versus-weekday comparison.
-- `PAX ON` counts represent boardings, not unique individuals; the same person may board more than once.
-- Peak windows are project-defined assumptions.
-- Differences between the two billing periods may reflect operating-day counts, schedules, calendar effects, or other factors not controlled for in this analysis.
+The project acknowledges the following limitations:
 
-## Upstream project and attribution
+- The analysis uses historical billing-period aggregates rather than individual passenger records.
+- Only four weekday bus routes are included in the primary analysis.
+- Passenger boardings do not represent unique passengers.
+- The billing periods are not adjusted for the number of operating days.
+- Reliable daily and weekend comparisons cannot be derived from the available aggregate tables.
+- Historical stop coordinates are approximate geocoding matches and may represent nearby landmarks or intersections.
+- Historical route geometry is not provided in the original Excel datasets.
+- Newer GTFS route information must not be treated as an exact representation of the 2018–2019 network.
+- Peak-hour classifications are predefined analytical assumptions.
 
-This work is an adaptation of **UCM CatTracks Simulator**. The original notebooks and Python source files are retained under `upstream_reference/` for comparison; the active DA-012 workflow uses the new parser and analysis notebook in this repository.
+---
 
-- Original repository: https://github.com/nlt-python/UCM_CatTracks_Simulator
-- The upstream README states that the project is licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+## Project Information
 
-This adaptation retains attribution to the upstream project and identifies the additional extraction, cleaning, summary, and visualisation work in `NOTICE.md`. The source Excel files are included unchanged. See `NOTICE.md` for details.
+| Field | Details |
+|---|---|
+| Project Title | Public Transport Ridership Analysis |
+| Project ID | DA-012 |
+| Group ID | BTech_DA_08 |
+| Programme | B.Tech Computer Science & Engineering |
+| Semester | III |
+| Section | F |
+| Institution | Invertis University, Bareilly |
+| Project Mentor | Puneet Arora |
+| Project Lead | Mohd. Shoaib |
 
-## Suggested viva explanation
+Team member names and academic identifiers should be published only with the respective members' permission. Student IDs and university roll numbers are intentionally excluded from this public repository.
 
-The project uses Python and Pandas to convert semi-structured Excel worksheets into a tidy ridership dataset. It then groups passenger boarding counts by route, stop, scheduled departure time, and billing period. Matplotlib is used to visualise route demand, busiest stops, time-of-day patterns, and peak/off-peak differences. The goal is descriptive analysis of the available data rather than prediction or causal claims.
+---
 
-## Map-led geospatial transit analysis
+## Original Project & Attribution
 
-The Streamlit application opens on a **map-led Geospatial Analysis workspace**. It uses a map + analytics split view: select a historical route or stop, explore the boarding-weighted heatmap, and inspect period comparisons and scheduled-hour patterns beside the map. A separate GTFS view draws actual route paths when the loaded feed contains `shapes.txt` linked to trips.
+This project is an adaptation and extension of the publicly available UC Merced CatTracks Simulator.
 
-### Historical ridership map — October 2018 and February 2019
+**Original repository:**
 
-- Filter the map by historical route and billing period.
-- Change marker size to represent the selected boarding count.
-- Toggle the passenger demand heatmap. Heat intensity is weighted by recorded boarding counts.
-- Click a stop marker or choose a stop in the inspector to update period comparison, route contribution and departure-hour charts.
-- Choose theme-matched, light, dark or standard OpenStreetMap tiles.
+https://github.com/nlt-python/UCM_CatTracks_Simulator
 
-The historical workbooks contain stop labels and boarding counts, but not latitude/longitude or vector route geometry. OpenStreetMap Nominatim matches are approximate place/intersection locations, not surveyed stop poles. The location cache is local at `data/stop_locations_osm.csv` and excluded from Git.
+The original project and its authors are acknowledged in `NOTICE.md`.
 
-### Actual route lines from GTFS
+Please consult the included `LICENSE` and `NOTICE.md` files for applicable licensing and attribution requirements.
 
-The dashboard can load the official CatTracks static GTFS ZIP by download or upload. When the feed contains a valid `shapes.txt` linked to `trips.txt`, the dashboard draws those **actual GTFS route shapes**, shows GTFS stop markers, and lets the user inspect route/stop details and stop sequence. It will not invent route lines if shape geometry is missing.
+This repository should be understood as an educational adaptation, not an official UC Merced transportation application.
 
-The archived CatTracks GTFS snapshot checked for this project lists service beginning **2023-08-15**. These route lines can be overlaid on the historical demand map as a separate later-network reference, but they must not be described as exact 2018–19 alignments.
+---
 
-The historical route context is documented in the **UC Merced 2020 LRDP Transportation Impact Analysis** prepared in August 2019. Figure 2 is titled *Weekday Bus Routes* and describes C1, C2 and G corridors. It is a static reference map, not a downloadable vector geometry layer. This project does not fabricate historical route polylines. See [the official assessment](https://planning.ucmerced.edu/sites/g/files/ufvvjh1431/f/page/documents/appendix_4.8_uc_merced_2020_lrdp_transportation_impact_analysis_rev.pdf) and `GEOSPATIAL_DATA_NOTES.md`.
+## Future Improvements
 
-### Geospatial data sources
+Potential future development includes:
 
-- Historical route context: [UC Merced 2020 LRDP Transportation Impact Analysis (August 2019)](https://planning.ucmerced.edu/sites/g/files/ufvvjh1431/f/page/documents/appendix_4.8_uc_merced_2020_lrdp_transportation_impact_analysis_rev.pdf).
-- Current route reference: [UC Merced TAPS routes](https://taps.ucmerced.edu/node/4656) and [Transitland CatTracks feed archive](https://www.transit.land/data/feeds/f-cattracks~ca~us).
-- Historical stop-name geocoding: [OpenStreetMap Nominatim](https://nominatim.openstreetmap.org/). Map data attribution is shown on the map.
+- Improved historical geographical route reconstruction using verified source material.
+- Higher geographical coverage of historical bus stops.
+- More detailed route-level demand analysis.
+- Improved spatial demand visualization.
+- Additional geographical comparison between historical and newer transit networks.
+- Online dashboard deployment.
+- Further statistical analysis using additional transit datasets.
 
-See `MAP_WORKSPACE_GUIDE.md` for the new map workflow, `DASHBOARD_GUIDE.md` for full setup steps, and `GEOSPATIAL_DATA_NOTES.md` for date, source and location-quality limitations.
+---
 
-## Project team
+## Author
 
-The dashboard includes the official project metadata and the 11-person roster. The public `data/team_members.csv` contains names and general project roles. Student IDs and roll numbers are stored in `data/team_members_private.csv`, which is excluded by `.gitignore` for local academic use only. **Do not force-add that private file to a public Git repository.** Obtain team members' consent before publishing their names.
+**Mohd. Shoaib**
 
-Academic details: Invertis University, Bareilly · B.Tech · Semester III · Section F · Group BTech_DA_08 · Mentor Puneet Arora.
+Project Lead — DA-012  
+B.Tech Computer Science & Engineering  
+Invertis University, Bareilly
 
+GitHub: https://github.com/JYNXEN
 
-## Map and sidebar configuration
+---
 
-- **Global filters** are collapsed in the sidebar. Expand the section to choose billing periods using checkboxes, routes, time bands, demand class and departure-hour range.
-- **Map appearance** is a separate sidebar section; basemap settings are never hidden inside the map. Standard OpenStreetMap is the default and needs no API key.
-- Optional **CARTO Positron (light)** and **CARTO Dark Matter** styles are enabled after entering a free non-commercial key in the sidebar. The current non-commercial tier allows up to 5 million tile requests per calendar month. Request a key at <https://www.carto.com/basemaps/apikey/>.
-- The map saves its centre and zoom through the Streamlit-Folium component callback before a rerun, so ordinary pan/zoom and filter changes preserve the viewport. Use **Fit visible stops** only when you want to reframe.
-- The Geospatial Analysis page uses a shorter map beside a route/stop inspector, followed by a full-width row of billing-period and scheduled-hour analysis to avoid a large blank area under the map.
+*Developed as an academic Data Analytics project for Semester III.*
 
-For OSM tile usage, keep attribution visible and use normal interactive viewing only; do not bulk-download or prefetch tiles. See the [OpenStreetMap Tile Usage Policy](https://operations.osmfoundation.org/policies/tiles/) and [MAP_TROUBLESHOOTING.md](MAP_TROUBLESHOOTING.md).
+*CatTracks Ridership Intelligence — Exploring public transport demand through data and geospatial analytics.*
