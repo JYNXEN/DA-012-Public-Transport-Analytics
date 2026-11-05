@@ -1,0 +1,17 @@
+period,route,peak_status,total_boardings
+February 2019,C1 Blue,Off-peak,2503.0
+February 2019,C1 Blue,Peak,1801.0
+February 2019,C1 Gold,Off-peak,2230.0
+February 2019,C1 Gold,Peak,1775.0
+February 2019,C2 Express,Off-peak,6274.0
+February 2019,C2 Express,Peak,5779.0
+February 2019,G-Line,Off-peak,3612.0
+February 2019,G-Line,Peak,2687.0
+October 2018,C1 Blue,Off-peak,3409.0
+October 2018,C1 Blue,Peak,2567.0
+October 2018,C1 Gold,Off-peak,3288.0
+October 2018,C1 Gold,Peak,2541.0
+October 2018,C2 Express,Off-peak,7335.0
+October 2018,C2 Express,Peak,6217.0
+October 2018,G-Line,Off-peak,2716.0
+October 2018,G-Line,Peak,2545.0

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Private academic identifiers / locally generated geocoding cache
+data/team_members_private.csv
+data/stop_locations_osm.csv
+
+.streamlit/secrets.toml

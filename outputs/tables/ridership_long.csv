@@ -1,0 +1,1115 @@
+period,route,stop,departure_time,source_workbook,passenger_count,departure_minutes,departure_hour,time_band,peak_status,period_order
+February 2019,C1 Blue,Alexander & G Street,05:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,345,5,Early morning,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,05:45,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,345,5,Early morning,Off-peak,2
+February 2019,C1 Blue,Mercy Hospital,05:45,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,345,5,Early morning,Off-peak,2
+February 2019,C1 Blue,Muir Pass,05:45,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,345,5,Early morning,Off-peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,05:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,345,5,Early morning,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,05:45,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,345,5,Early morning,Off-peak,2
+February 2019,C1 Blue,Alexander & G Street,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,24.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,Arrow Wood Drive,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,194.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,El Portal Plaza,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,21.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,El Portal Plaza / G Street,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,Granville Apts,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,31.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,Meadows/Olivewood,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,30.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,Muir Pass,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,Scholars/Emigrant,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,Walmart,07:04,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,424,7,Morning peak,Peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,Alexander & G Street,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,50.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,Arrow Wood Drive,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,303.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,El Portal Plaza,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,42.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,El Portal Plaza / G Street,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,Granville Apts,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,61.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,Meadows/Olivewood,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,39.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,Muir Pass,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,85.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,84.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,Scholars/Emigrant,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,Walmart,08:43,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,523,8,Morning peak,Peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,Alexander & G Street,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,38.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,116.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,37.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza / G Street,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,Granville Apts,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,41.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,Meadows/Olivewood,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,29.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,Mercy Hospital,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,Muir Pass,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,124.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,31.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,10:02,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,602,10,Midday,Off-peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Alexander & G Street,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,48.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,99.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,63.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza / G Street,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Granville Apts,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,40.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Meadows/Olivewood,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Mercy Hospital,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Muir Pass,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,113.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,25.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,TriCol/Mercy Hospital,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,Walmart,11:21,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,681,11,Midday,Off-peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Alexander & G Street,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,49.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza / G Street,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Granville Apts,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,17.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Meadows/Olivewood,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Mercy Hospital,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Muir Pass,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,230.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,21.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,24.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,TriCol/Mercy Hospital,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,Walmart,13:00,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,780,13,Midday,Off-peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Alexander & G Street,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,20.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,29.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza / G Street,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Granville Apts,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,22.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Meadows/Olivewood,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Mercy Hospital,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Muir Pass,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,334.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,31.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,33.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,Walmart,14:19,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,859,14,Midday,Off-peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Alexander & G Street,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,34.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza / G Street,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Granville Apts,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Meadows/Olivewood,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Mercy Hospital,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Muir Pass,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,354.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,34.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,TriCol/Mercy Hospital,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,Walmart,15:58,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,958,15,Midday,Off-peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,Alexander & G Street,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,Arrow Wood Drive,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,49.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,El Portal Plaza,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,El Portal Plaza / G Street,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,Granville Apts,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,Meadows/Olivewood,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,Muir Pass,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,359.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,Scholars/Emigrant,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,42.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,TriCol/Mercy Hospital,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,Walmart,17:17,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,1037,17,Evening peak,Peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Alexander & G Street,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Arrow Wood Drive,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,31.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,El Portal Plaza,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Granville Apts,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Meadows/Olivewood,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Mercy Hospital,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Muir Pass,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,163.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Scholars/Emigrant,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,24.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,Walmart,18:36,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,1116,18,Evening peak,Peak,2
+February 2019,C1 Blue,"""G"" St & Alexander",20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Alexander & G Street,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Granville Apts,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Meadows/Olivewood,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Mercy Hospital,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Muir Pass,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,77.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Rite Aid/Walgreen,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Walmart,20:15,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,1215,20,Night,Off-peak,2
+February 2019,C1 Blue,Alexander & G Street,21:34,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1294,21,Night,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,21:34,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,1294,21,Night,Off-peak,2
+February 2019,C1 Blue,Granville Apts,21:34,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1294,21,Night,Off-peak,2
+February 2019,C1 Blue,Meadows/Olivewood,21:34,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1294,21,Night,Off-peak,2
+February 2019,C1 Blue,Muir Pass,21:34,219-CATTRACKS Fall 2019- February Billing.xlsx,37.0,1294,21,Night,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,21:34,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,1294,21,Night,Off-peak,2
+February 2019,C1 Blue,Walmart,21:34,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1294,21,Night,Off-peak,2
+February 2019,C1 Blue,Arrow Wood Drive,23:28,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1408,23,Night,Off-peak,2
+February 2019,C1 Blue,El Portal Plaza,23:28,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1408,23,Night,Off-peak,2
+February 2019,C1 Blue,Muir Pass,23:28,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,1408,23,Night,Off-peak,2
+February 2019,C1 Blue,Scholars/Emigrant,23:28,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1408,23,Night,Off-peak,2
+February 2019,C1 Gold,Alexander & G Street,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,52.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,Arrow Wood Drive,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,81.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,26.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,Granville Apts,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,31.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,Meadows/Olivewood,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,Mercy Hospital,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,Muir Pass,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,23.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,32.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,Walmart,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,385,6,Early morning,Off-peak,2
+February 2019,C1 Gold,Alexander & G Street,07:44,219-CATTRACKS Fall 2019- February Billing.xlsx,63.0,464,7,Morning peak,Peak,2
+February 2019,C1 Gold,Arrow Wood Drive,07:44,219-CATTRACKS Fall 2019- February Billing.xlsx,234.0,464,7,Morning peak,Peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,07:44,219-CATTRACKS Fall 2019- February Billing.xlsx,110.0,464,7,Morning peak,Peak,2
+February 2019,C1 Gold,Granville Apts,07:44,219-CATTRACKS Fall 2019- February Billing.xlsx,68.0,464,7,Morning peak,Peak,2
+February 2019,C1 Gold,Meadows/Olivewood,07:44,219-CATTRACKS Fall 2019- February Billing.xlsx,47.0,464,7,Morning peak,Peak,2
+February 2019,C1 Gold,Mercy Hospital,07:44,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,464,7,Morning peak,Peak,2
+February 2019,C1 Gold,Muir Pass,07:44,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,464,7,Morning peak,Peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,07:44,219-CATTRACKS Fall 2019- February Billing.xlsx,88.0,464,7,Morning peak,Peak,2
+February 2019,C1 Gold,Alexander & G Street,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,59.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,Arrow Wood Drive,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,136.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,77.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,Granville Apts,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,115.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,Meadows/Olivewood,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,60.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,Mercy Hospital,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,Muir Pass,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,44.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,47.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,Walmart,09:23,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,563,9,Morning peak,Peak,2
+February 2019,C1 Gold,Alexander & G Street,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,89.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Arrow Wood Drive,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,216.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,42.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Granville Apts,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,56.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Meadows/Olivewood,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,27.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Mercy Hospital,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Muir Pass,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,57.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,39.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Scholars/Emigrant,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Walmart,10:42,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,642,10,Midday,Off-peak,2
+February 2019,C1 Gold,Alexander & G Street,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,53.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Arrow Wood Drive,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,90.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,49.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Granville Apts,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,57.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Meadows/Olivewood,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,26.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Mercy Hospital,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Muir Pass,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,83.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,46.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Scholars/Emigrant,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,20.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Tri College/Mercy,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Walmart,12:01,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,721,12,Midday,Off-peak,2
+February 2019,C1 Gold,Alexander & G Street,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,22.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Arrow Wood Drive,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,77.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Granville Apts,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,39.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Meadows/Olivewood,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Mercy Hospital,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Muir Pass,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,116.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Scholars/Emigrant,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,23.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Walmart,13:40,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,820,13,Midday,Off-peak,2
+February 2019,C1 Gold,Alexander & G Street,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,31.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Arrow Wood Drive,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,28.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,20.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Granville Apts,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,28.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Meadows/Olivewood,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Mercy Hospital,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Muir Pass,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,205.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,15.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Scholars/Emigrant,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,40.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Walmart,14:59,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,899,14,Midday,Off-peak,2
+February 2019,C1 Gold,Alexander & G Street,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Arrow Wood Drive,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,36.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Granville Apts,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Meadows/Olivewood,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Muir Pass,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,259.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Scholars/Emigrant,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,41.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Tri College/Mercy,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Walmart,16:38,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,998,16,Evening peak,Peak,2
+February 2019,C1 Gold,Alexander & G Street,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Arrow Wood Drive,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,El Portal Plaza / G Street,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Granville Apts,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Meadows/Olivewood,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,15.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Mercy Hospital,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Muir Pass,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,138.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Scholars/Emigrant,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,18.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Walmart,17:57,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,1077,17,Evening peak,Peak,2
+February 2019,C1 Gold,Alexander & G Street,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Arrow Wood Drive,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Granville Apts,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Meadows/Olivewood,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Muir Pass,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,103.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Scholars/Emigrant,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Tri College/Mercy,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Walmart,19:16,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1156,19,Night,Off-peak,2
+February 2019,C1 Gold,Alexander & G Street,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Arrow Wood Drive,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Granville Apts,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Meadows/Olivewood,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Muir Pass,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,74.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Scholars/Emigrant,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,17.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Tri College/Mercy,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Walmart,20:55,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,1255,20,Night,Off-peak,2
+February 2019,C1 Gold,Alexander & G Street,22:14,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1334,22,Night,Off-peak,2
+February 2019,C1 Gold,Arrow Wood Drive,22:14,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1334,22,Night,Off-peak,2
+February 2019,C1 Gold,Meadows/Olivewood,22:14,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1334,22,Night,Off-peak,2
+February 2019,C1 Gold,Rite Aid/Walgreen,22:14,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1334,22,Night,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,Buena Vista,05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,Compass Pointe,05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,El Redondo,05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,Ironstone,05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,Merced College,05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,"Villages Apts ""M""",05:25,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,325,5,Early morning,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,25.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,Buena Vista,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,44.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,Compass Pointe,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,27.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,El Redondo,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,25.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,Ironstone,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,Merced College,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,42.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,Muir Pass,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,"Villages Apts ""M""",06:25,219-CATTRACKS Fall 2019- February Billing.xlsx,51.0,385,6,Early morning,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,125.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,Buena Vista,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,98.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,Compass Pointe,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,79.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,El Redondo,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,39.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,Ironstone,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,70.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,Merced College,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,39.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,Merced Mall Target,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,85.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,Muir Pass,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,18.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,Scholars/Emigrant,07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,49.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,"Villages Apts ""M""",07:45,219-CATTRACKS Fall 2019- February Billing.xlsx,140.0,465,7,Morning peak,Peak,2
+February 2019,C2 Express,Arrow Wood Drive,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,136.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,Buena Vista,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,100.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,Compass Pointe,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,44.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,El Redondo,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,47.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,Ironstone,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,64.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,Merced College,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,96.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,Merced Mall Target,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,107.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,Muir Pass,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,160.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,Scholars/Emigrant,08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,17.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,67.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,"Villages Apts ""M""",08:45,219-CATTRACKS Fall 2019- February Billing.xlsx,83.0,525,8,Morning peak,Peak,2
+February 2019,C2 Express,Arrow Wood Drive,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,225.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,Buena Vista,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,87.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,Compass Pointe,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,53.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,El Redondo,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,38.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,Ironstone,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,52.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,Merced College,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,42.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,Merced Mall Target,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,79.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,Muir Pass,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,212.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,Scholars/Emigrant,09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,33.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,47.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,"Villages Apts ""M""",09:45,219-CATTRACKS Fall 2019- February Billing.xlsx,81.0,585,9,Morning peak,Peak,2
+February 2019,C2 Express,Arrow Wood Drive,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,242.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,Buena Vista,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,59.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,Compass Pointe,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,70.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,El Redondo,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,67.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,Ironstone,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,30.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,Merced College,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,25.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,81.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,Muir Pass,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,337.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,70.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,55.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,"Villages Apts ""M""",11:05,219-CATTRACKS Fall 2019- February Billing.xlsx,76.0,665,11,Midday,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,95.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,Buena Vista,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,41.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,Compass Pointe,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,35.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,El Redondo,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,38.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,Ironstone,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,27.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,Merced College,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,18.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,79.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,Muir Pass,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,291.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,51.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,"Villages Apts ""M""",12:05,219-CATTRACKS Fall 2019- February Billing.xlsx,51.0,725,12,Midday,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,34.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,Buena Vista,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,30.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,Compass Pointe,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,El Redondo,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,22.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,Ironstone,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,18.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,Merced College,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,89.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,Muir Pass,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,480.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,82.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,"Villages Apts ""M""",13:05,219-CATTRACKS Fall 2019- February Billing.xlsx,33.0,785,13,Midday,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,84.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,Buena Vista,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,24.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,Compass Pointe,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,El Redondo,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,35.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,Ironstone,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,Merced College,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,124.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,Muir Pass,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,701.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,101.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,"Villages Apts ""M""",14:25,219-CATTRACKS Fall 2019- February Billing.xlsx,35.0,865,14,Midday,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,20.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,Buena Vista,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,30.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,Compass Pointe,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,El Redondo,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,Ironstone,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,Merced College,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,101.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,Muir Pass,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,634.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,116.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,"Villages Apts ""M""",15:25,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,925,15,Midday,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,36.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Buena Vista,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Cardella & M St.,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Compass Pointe,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,El Redondo,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Ironstone,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Merced College,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Merced Mall Target,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,117.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Muir Pass,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,885.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Scholars/Emigrant,16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,123.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,"Villages Apts ""M""",16:25,219-CATTRACKS Fall 2019- February Billing.xlsx,16.0,985,16,Evening peak,Peak,2
+February 2019,C2 Express,Arrow Wood Drive,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,21.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,Buena Vista,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,Compass Pointe,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,El Redondo,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,Ironstone,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,Merced College,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,Merced Mall Target,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,194.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,Muir Pass,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,704.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,Scholars/Emigrant,17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,62.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,"Villages Apts ""M""",17:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1065,17,Evening peak,Peak,2
+February 2019,C2 Express,Arrow Wood Drive,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,18.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,Buena Vista,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,Compass Pointe,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,El Redondo,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,Ironstone,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,Merced College,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,15.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,Merced Mall Target,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,120.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,Muir Pass,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,643.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,Scholars/Emigrant,18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,75.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,"Villages Apts ""M""",18:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1125,18,Evening peak,Peak,2
+February 2019,C2 Express,Arrow Wood Drive,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,17.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,Buena Vista,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,Compass Pointe,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,El Redondo,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,Ironstone,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,Merced College,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,88.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,Muir Pass,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,402.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,51.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,"Villages Apts ""M""",19:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1185,19,Night,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,20:45,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1245,20,Night,Off-peak,2
+February 2019,C2 Express,Compass Pointe,20:45,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1245,20,Night,Off-peak,2
+February 2019,C2 Express,Merced College,20:45,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1245,20,Night,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,20:45,219-CATTRACKS Fall 2019- February Billing.xlsx,84.0,1245,20,Night,Off-peak,2
+February 2019,C2 Express,Muir Pass,20:45,219-CATTRACKS Fall 2019- February Billing.xlsx,299.0,1245,20,Night,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,20:45,219-CATTRACKS Fall 2019- February Billing.xlsx,42.0,1245,20,Night,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",20:45,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,1245,20,Night,Off-peak,2
+February 2019,C2 Express,Arrow Wood Drive,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,Buena Vista,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,Compass Pointe,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,El Redondo,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,Ironstone,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,Merced College,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,Merced Mall Target,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,38.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,Muir Pass,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,83.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,Scholars/Emigrant,22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,1325,22,Night,Off-peak,2
+February 2019,C2 Express,"Village Apts ""R"" Street",22:05,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,1325,22,Night,Off-peak,2
+February 2019,G-Line,Amtrak,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,Compass Pointe,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,23.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,El Redondo,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,Ironstone,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,15.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,K 18th+19th,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,Merced College,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,Muir Pass,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",05:40,219-CATTRACKS Fall 2019- February Billing.xlsx,16.0,340,5,Early morning,Off-peak,2
+February 2019,G-Line,Amtrak,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,61.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,Compass Pointe,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,100.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,El Redondo,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,161.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,Ironstone,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,29.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,K 18th+19th,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,Merced College,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,Muir Pass,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,16.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",06:47,219-CATTRACKS Fall 2019- February Billing.xlsx,66.0,407,6,Early morning,Off-peak,2
+February 2019,G-Line,Amtrak,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,Arrow Wood Drive,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,128.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,Compass Pointe,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,210.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,El Redondo,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,296.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,Ironstone,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,63.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,K 18th+19th,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,Merced College,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,Muir Pass,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,Scholars/Emigrant,08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",08:14,219-CATTRACKS Fall 2019- February Billing.xlsx,278.0,494,8,Morning peak,Peak,2
+February 2019,G-Line,Amtrak,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,Arrow Wood Drive,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,131.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,Compass Pointe,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,244.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,El Redondo,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,313.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,Ironstone,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,40.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,K 18th+19th,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,Merced College,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,37.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,Muir Pass,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,29.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,Scholars/Emigrant,09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",09:21,219-CATTRACKS Fall 2019- February Billing.xlsx,196.0,561,9,Morning peak,Peak,2
+February 2019,G-Line,Amtrak,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,89.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,Compass Pointe,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,165.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,El Redondo,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,204.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,Ironstone,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,32.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,K 18th+19th,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,Merced College,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,37.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,Muir Pass,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,122.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,30.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",10:28,219-CATTRACKS Fall 2019- February Billing.xlsx,137.0,628,10,Midday,Off-peak,2
+February 2019,G-Line,Amtrak,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,15.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,63.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,Compass Pointe,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,96.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,El Redondo,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,116.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,Ironstone,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,26.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,K 18th+19th,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,Merced College,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,Muir Pass,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,54.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,22.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",11:55,219-CATTRACKS Fall 2019- February Billing.xlsx,97.0,715,11,Midday,Off-peak,2
+February 2019,G-Line,Amtrak,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,122.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,Compass Pointe,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,76.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,El Redondo,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,105.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,Ironstone,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,K 18th+19th,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,12.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,Merced College,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,19.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,Muir Pass,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,220.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,42.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",13:02,219-CATTRACKS Fall 2019- February Billing.xlsx,49.0,782,13,Midday,Off-peak,2
+February 2019,G-Line,Amtrak,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,32.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,48.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,Compass Pointe,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,43.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,El Redondo,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,20.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,Ironstone,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,11.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,K 18th+19th,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,24.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,Merced College,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,24.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,Muir Pass,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,150.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,46.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",14:09,219-CATTRACKS Fall 2019- February Billing.xlsx,75.0,849,14,Midday,Off-peak,2
+February 2019,G-Line,Amtrak,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,53.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,Compass Pointe,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,34.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,El Redondo,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,40.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,Ironstone,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,K 18th+19th,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,26.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,Merced College,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,Muir Pass,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,105.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,33.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",15:36,219-CATTRACKS Fall 2019- February Billing.xlsx,30.0,936,15,Midday,Off-peak,2
+February 2019,G-Line,Amtrak,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,20.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,Arrow Wood Drive,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,Compass Pointe,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,28.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,El Redondo,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,39.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,Ironstone,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,2.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,K 18th+19th,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,45.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,Merced College,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,Muir Pass,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,208.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,Scholars/Emigrant,16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,57.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",16:43,219-CATTRACKS Fall 2019- February Billing.xlsx,58.0,1003,16,Evening peak,Peak,2
+February 2019,G-Line,Amtrak,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,Arrow Wood Drive,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,15.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,Compass Pointe,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,16.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,El Redondo,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,Ironstone,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,K 18th+19th,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,13.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,Merced College,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,4.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,Muir Pass,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,78.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,Scholars/Emigrant,17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,36.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",17:50,219-CATTRACKS Fall 2019- February Billing.xlsx,25.0,1070,17,Evening peak,Peak,2
+February 2019,G-Line,Amtrak,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,Compass Pointe,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,8.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,El Redondo,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,Ironstone,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,K 18th+19th,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,27.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,Merced College,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,Muir Pass,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,53.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,20.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",19:17,219-CATTRACKS Fall 2019- February Billing.xlsx,14.0,1157,19,Night,Off-peak,2
+February 2019,G-Line,Amtrak,20:24,219-CATTRACKS Fall 2019- February Billing.xlsx,10.0,1224,20,Night,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,20:24,219-CATTRACKS Fall 2019- February Billing.xlsx,7.0,1224,20,Night,Off-peak,2
+February 2019,G-Line,Compass Pointe,20:24,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1224,20,Night,Off-peak,2
+February 2019,G-Line,El Redondo,20:24,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,1224,20,Night,Off-peak,2
+February 2019,G-Line,K 18th+19th,20:24,219-CATTRACKS Fall 2019- February Billing.xlsx,9.0,1224,20,Night,Off-peak,2
+February 2019,G-Line,Muir Pass,20:24,219-CATTRACKS Fall 2019- February Billing.xlsx,24.0,1224,20,Night,Off-peak,2
+February 2019,G-Line,Scholars/Emigrant,20:24,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1224,20,Night,Off-peak,2
+February 2019,G-Line,"Village Apts ""R"" Street",20:24,219-CATTRACKS Fall 2019- February Billing.xlsx,5.0,1224,20,Night,Off-peak,2
+February 2019,G-Line,Arrow Wood Drive,21:31,219-CATTRACKS Fall 2019- February Billing.xlsx,3.0,1291,21,Night,Off-peak,2
+February 2019,G-Line,Compass Pointe,21:31,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1291,21,Night,Off-peak,2
+February 2019,G-Line,El Redondo,21:31,219-CATTRACKS Fall 2019- February Billing.xlsx,1.0,1291,21,Night,Off-peak,2
+February 2019,G-Line,K 18th+19th,21:31,219-CATTRACKS Fall 2019- February Billing.xlsx,6.0,1291,21,Night,Off-peak,2
+October 2018,C1 Blue,Alexander & G Street,05:45,CATTRACKS Fall 2018- October Billing.xlsx,14.0,345,5,Early morning,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,05:45,CATTRACKS Fall 2018- October Billing.xlsx,19.0,345,5,Early morning,Off-peak,1
+October 2018,C1 Blue,Granville Apts,05:45,CATTRACKS Fall 2018- October Billing.xlsx,11.0,345,5,Early morning,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,05:45,CATTRACKS Fall 2018- October Billing.xlsx,5.0,345,5,Early morning,Off-peak,1
+October 2018,C1 Blue,Mercy Hospital,05:45,CATTRACKS Fall 2018- October Billing.xlsx,6.0,345,5,Early morning,Off-peak,1
+October 2018,C1 Blue,Muir Pass,05:45,CATTRACKS Fall 2018- October Billing.xlsx,6.0,345,5,Early morning,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,05:45,CATTRACKS Fall 2018- October Billing.xlsx,3.0,345,5,Early morning,Off-peak,1
+October 2018,C1 Blue,"""G"" St & Alexander",07:04,CATTRACKS Fall 2018- October Billing.xlsx,2.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Alexander & G Street,07:04,CATTRACKS Fall 2018- October Billing.xlsx,37.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Arrow Wood Drive,07:04,CATTRACKS Fall 2018- October Billing.xlsx,237.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,El Portal Plaza,07:04,CATTRACKS Fall 2018- October Billing.xlsx,58.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,07:04,CATTRACKS Fall 2018- October Billing.xlsx,3.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Granville Apts,07:04,CATTRACKS Fall 2018- October Billing.xlsx,22.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Meadows/Olivewood,07:04,CATTRACKS Fall 2018- October Billing.xlsx,36.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Mercy Hospital,07:04,CATTRACKS Fall 2018- October Billing.xlsx,28.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Muir Pass,07:04,CATTRACKS Fall 2018- October Billing.xlsx,29.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,07:04,CATTRACKS Fall 2018- October Billing.xlsx,28.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Scholars/Emigrant,07:04,CATTRACKS Fall 2018- October Billing.xlsx,6.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,07:04,CATTRACKS Fall 2018- October Billing.xlsx,1.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Walmart,07:04,CATTRACKS Fall 2018- October Billing.xlsx,5.0,424,7,Morning peak,Peak,1
+October 2018,C1 Blue,Alexander & G Street,08:43,CATTRACKS Fall 2018- October Billing.xlsx,82.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Arrow Wood Drive,08:43,CATTRACKS Fall 2018- October Billing.xlsx,305.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,El Portal Plaza,08:43,CATTRACKS Fall 2018- October Billing.xlsx,70.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,08:43,CATTRACKS Fall 2018- October Billing.xlsx,1.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Granville Apts,08:43,CATTRACKS Fall 2018- October Billing.xlsx,92.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Meadows/Olivewood,08:43,CATTRACKS Fall 2018- October Billing.xlsx,73.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Mercy Hospital,08:43,CATTRACKS Fall 2018- October Billing.xlsx,20.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Muir Pass,08:43,CATTRACKS Fall 2018- October Billing.xlsx,100.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,08:43,CATTRACKS Fall 2018- October Billing.xlsx,111.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Scholars/Emigrant,08:43,CATTRACKS Fall 2018- October Billing.xlsx,9.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,08:43,CATTRACKS Fall 2018- October Billing.xlsx,11.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Walmart,08:43,CATTRACKS Fall 2018- October Billing.xlsx,5.0,523,8,Morning peak,Peak,1
+October 2018,C1 Blue,Alexander & G Street,10:02,CATTRACKS Fall 2018- October Billing.xlsx,44.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,10:02,CATTRACKS Fall 2018- October Billing.xlsx,177.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza,10:02,CATTRACKS Fall 2018- October Billing.xlsx,39.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,10:02,CATTRACKS Fall 2018- October Billing.xlsx,2.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,Granville Apts,10:02,CATTRACKS Fall 2018- October Billing.xlsx,69.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,10:02,CATTRACKS Fall 2018- October Billing.xlsx,34.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,Mercy Hospital,10:02,CATTRACKS Fall 2018- October Billing.xlsx,10.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,Muir Pass,10:02,CATTRACKS Fall 2018- October Billing.xlsx,123.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,10:02,CATTRACKS Fall 2018- October Billing.xlsx,75.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,Scholars/Emigrant,10:02,CATTRACKS Fall 2018- October Billing.xlsx,16.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,10:02,CATTRACKS Fall 2018- October Billing.xlsx,7.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,Walmart,10:02,CATTRACKS Fall 2018- October Billing.xlsx,11.0,602,10,Midday,Off-peak,1
+October 2018,C1 Blue,"""G"" St & Alexander",11:21,CATTRACKS Fall 2018- October Billing.xlsx,8.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Alexander & G Street,11:21,CATTRACKS Fall 2018- October Billing.xlsx,41.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,11:21,CATTRACKS Fall 2018- October Billing.xlsx,115.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza,11:21,CATTRACKS Fall 2018- October Billing.xlsx,8.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,11:21,CATTRACKS Fall 2018- October Billing.xlsx,3.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Granville Apts,11:21,CATTRACKS Fall 2018- October Billing.xlsx,89.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,11:21,CATTRACKS Fall 2018- October Billing.xlsx,23.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Mercy Hospital,11:21,CATTRACKS Fall 2018- October Billing.xlsx,2.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Muir Pass,11:21,CATTRACKS Fall 2018- October Billing.xlsx,274.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,11:21,CATTRACKS Fall 2018- October Billing.xlsx,40.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Scholars/Emigrant,11:21,CATTRACKS Fall 2018- October Billing.xlsx,27.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,11:21,CATTRACKS Fall 2018- October Billing.xlsx,5.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,Walmart,11:21,CATTRACKS Fall 2018- October Billing.xlsx,10.0,681,11,Midday,Off-peak,1
+October 2018,C1 Blue,"""G"" St & Alexander",13:00,CATTRACKS Fall 2018- October Billing.xlsx,3.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Alexander & G Street,13:00,CATTRACKS Fall 2018- October Billing.xlsx,22.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,13:00,CATTRACKS Fall 2018- October Billing.xlsx,44.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza,13:00,CATTRACKS Fall 2018- October Billing.xlsx,12.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,13:00,CATTRACKS Fall 2018- October Billing.xlsx,4.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Granville Apts,13:00,CATTRACKS Fall 2018- October Billing.xlsx,31.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,13:00,CATTRACKS Fall 2018- October Billing.xlsx,13.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Mercy Hospital,13:00,CATTRACKS Fall 2018- October Billing.xlsx,1.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Muir Pass,13:00,CATTRACKS Fall 2018- October Billing.xlsx,223.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,13:00,CATTRACKS Fall 2018- October Billing.xlsx,46.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Scholars/Emigrant,13:00,CATTRACKS Fall 2018- October Billing.xlsx,50.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,13:00,CATTRACKS Fall 2018- October Billing.xlsx,9.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,Walmart,13:00,CATTRACKS Fall 2018- October Billing.xlsx,17.0,780,13,Midday,Off-peak,1
+October 2018,C1 Blue,"""G"" St & Alexander",14:19,CATTRACKS Fall 2018- October Billing.xlsx,2.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Alexander & G Street,14:19,CATTRACKS Fall 2018- October Billing.xlsx,35.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,14:19,CATTRACKS Fall 2018- October Billing.xlsx,64.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza,14:19,CATTRACKS Fall 2018- October Billing.xlsx,14.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,14:19,CATTRACKS Fall 2018- October Billing.xlsx,4.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Granville Apts,14:19,CATTRACKS Fall 2018- October Billing.xlsx,23.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,14:19,CATTRACKS Fall 2018- October Billing.xlsx,26.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Mercy Hospital,14:19,CATTRACKS Fall 2018- October Billing.xlsx,3.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Muir Pass,14:19,CATTRACKS Fall 2018- October Billing.xlsx,311.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,14:19,CATTRACKS Fall 2018- October Billing.xlsx,52.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Scholars/Emigrant,14:19,CATTRACKS Fall 2018- October Billing.xlsx,58.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,14:19,CATTRACKS Fall 2018- October Billing.xlsx,2.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,Walmart,14:19,CATTRACKS Fall 2018- October Billing.xlsx,19.0,859,14,Midday,Off-peak,1
+October 2018,C1 Blue,"""G"" St & Alexander",15:58,CATTRACKS Fall 2018- October Billing.xlsx,3.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Alexander & G Street,15:58,CATTRACKS Fall 2018- October Billing.xlsx,24.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,15:58,CATTRACKS Fall 2018- October Billing.xlsx,51.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza,15:58,CATTRACKS Fall 2018- October Billing.xlsx,20.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,15:58,CATTRACKS Fall 2018- October Billing.xlsx,8.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Granville Apts,15:58,CATTRACKS Fall 2018- October Billing.xlsx,17.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,15:58,CATTRACKS Fall 2018- October Billing.xlsx,17.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Mercy Hospital,15:58,CATTRACKS Fall 2018- October Billing.xlsx,2.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Muir Pass,15:58,CATTRACKS Fall 2018- October Billing.xlsx,443.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,15:58,CATTRACKS Fall 2018- October Billing.xlsx,22.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Scholars/Emigrant,15:58,CATTRACKS Fall 2018- October Billing.xlsx,37.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,15:58,CATTRACKS Fall 2018- October Billing.xlsx,8.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,Walmart,15:58,CATTRACKS Fall 2018- October Billing.xlsx,20.0,958,15,Midday,Off-peak,1
+October 2018,C1 Blue,"""G"" St & Alexander",17:17,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Alexander & G Street,17:17,CATTRACKS Fall 2018- October Billing.xlsx,11.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Arrow Wood Drive,17:17,CATTRACKS Fall 2018- October Billing.xlsx,66.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,El Portal Plaza,17:17,CATTRACKS Fall 2018- October Billing.xlsx,10.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,17:17,CATTRACKS Fall 2018- October Billing.xlsx,14.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Granville Apts,17:17,CATTRACKS Fall 2018- October Billing.xlsx,17.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Meadows/Olivewood,17:17,CATTRACKS Fall 2018- October Billing.xlsx,26.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Mercy Hospital,17:17,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Muir Pass,17:17,CATTRACKS Fall 2018- October Billing.xlsx,532.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,17:17,CATTRACKS Fall 2018- October Billing.xlsx,27.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Scholars/Emigrant,17:17,CATTRACKS Fall 2018- October Billing.xlsx,32.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,17:17,CATTRACKS Fall 2018- October Billing.xlsx,8.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,Walmart,17:17,CATTRACKS Fall 2018- October Billing.xlsx,18.0,1037,17,Evening peak,Peak,1
+October 2018,C1 Blue,"""G"" St & Alexander",18:36,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Alexander & G Street,18:36,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Arrow Wood Drive,18:36,CATTRACKS Fall 2018- October Billing.xlsx,26.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,El Portal Plaza,18:36,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Granville Apts,18:36,CATTRACKS Fall 2018- October Billing.xlsx,26.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Meadows/Olivewood,18:36,CATTRACKS Fall 2018- October Billing.xlsx,12.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Mercy Hospital,18:36,CATTRACKS Fall 2018- October Billing.xlsx,3.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Muir Pass,18:36,CATTRACKS Fall 2018- October Billing.xlsx,259.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,18:36,CATTRACKS Fall 2018- October Billing.xlsx,25.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Scholars/Emigrant,18:36,CATTRACKS Fall 2018- October Billing.xlsx,43.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,TriCol/Mercy Hospital,18:36,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,Walmart,18:36,CATTRACKS Fall 2018- October Billing.xlsx,27.0,1116,18,Evening peak,Peak,1
+October 2018,C1 Blue,"""G"" St & Alexander",20:15,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Alexander & G Street,20:15,CATTRACKS Fall 2018- October Billing.xlsx,7.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,20:15,CATTRACKS Fall 2018- October Billing.xlsx,19.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza,20:15,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza / G Street,20:15,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Granville Apts,20:15,CATTRACKS Fall 2018- October Billing.xlsx,16.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,20:15,CATTRACKS Fall 2018- October Billing.xlsx,16.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Muir Pass,20:15,CATTRACKS Fall 2018- October Billing.xlsx,95.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,20:15,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Scholars/Emigrant,20:15,CATTRACKS Fall 2018- October Billing.xlsx,26.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Walmart,20:15,CATTRACKS Fall 2018- October Billing.xlsx,6.0,1215,20,Night,Off-peak,1
+October 2018,C1 Blue,Alexander & G Street,21:34,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,21:34,CATTRACKS Fall 2018- October Billing.xlsx,5.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,El Portal Plaza,21:34,CATTRACKS Fall 2018- October Billing.xlsx,5.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,Granville Apts,21:34,CATTRACKS Fall 2018- October Billing.xlsx,8.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,21:34,CATTRACKS Fall 2018- October Billing.xlsx,9.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,Muir Pass,21:34,CATTRACKS Fall 2018- October Billing.xlsx,55.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,21:34,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,Scholars/Emigrant,21:34,CATTRACKS Fall 2018- October Billing.xlsx,18.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,Walmart,21:34,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1294,21,Night,Off-peak,1
+October 2018,C1 Blue,Arrow Wood Drive,23:28,CATTRACKS Fall 2018- October Billing.xlsx,3.0,1408,23,Night,Off-peak,1
+October 2018,C1 Blue,Granville Apts,23:28,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1408,23,Night,Off-peak,1
+October 2018,C1 Blue,Meadows/Olivewood,23:28,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1408,23,Night,Off-peak,1
+October 2018,C1 Blue,Muir Pass,23:28,CATTRACKS Fall 2018- October Billing.xlsx,22.0,1408,23,Night,Off-peak,1
+October 2018,C1 Blue,Rite Aid/Walgreen,23:28,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1408,23,Night,Off-peak,1
+October 2018,C1 Blue,Scholars/Emigrant,23:28,CATTRACKS Fall 2018- October Billing.xlsx,6.0,1408,23,Night,Off-peak,1
+October 2018,C1 Blue,Walmart,23:28,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1408,23,Night,Off-peak,1
+October 2018,C1 Gold,Alexander & G Street,06:25,CATTRACKS Fall 2018- October Billing.xlsx,54.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,Arrow Wood Drive,06:25,CATTRACKS Fall 2018- October Billing.xlsx,189.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,06:25,CATTRACKS Fall 2018- October Billing.xlsx,68.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,Granville Apts,06:25,CATTRACKS Fall 2018- October Billing.xlsx,17.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,Meadows/Olivewood,06:25,CATTRACKS Fall 2018- October Billing.xlsx,19.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,Mercy Hospital,06:25,CATTRACKS Fall 2018- October Billing.xlsx,6.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,Muir Pass,06:25,CATTRACKS Fall 2018- October Billing.xlsx,13.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,06:25,CATTRACKS Fall 2018- October Billing.xlsx,28.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,Scholars/Emigrant,06:25,CATTRACKS Fall 2018- October Billing.xlsx,1.0,385,6,Early morning,Off-peak,1
+October 2018,C1 Gold,Alexander & G Street,07:44,CATTRACKS Fall 2018- October Billing.xlsx,58.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Arrow Wood Drive,07:44,CATTRACKS Fall 2018- October Billing.xlsx,274.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,07:44,CATTRACKS Fall 2018- October Billing.xlsx,119.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Granville Apts,07:44,CATTRACKS Fall 2018- October Billing.xlsx,118.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Meadows/Olivewood,07:44,CATTRACKS Fall 2018- October Billing.xlsx,52.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Mercy Hospital,07:44,CATTRACKS Fall 2018- October Billing.xlsx,54.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Muir Pass,07:44,CATTRACKS Fall 2018- October Billing.xlsx,30.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,07:44,CATTRACKS Fall 2018- October Billing.xlsx,104.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Scholars/Emigrant,07:44,CATTRACKS Fall 2018- October Billing.xlsx,3.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Walmart,07:44,CATTRACKS Fall 2018- October Billing.xlsx,4.0,464,7,Morning peak,Peak,1
+October 2018,C1 Gold,Alexander & G Street,09:23,CATTRACKS Fall 2018- October Billing.xlsx,102.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Arrow Wood Drive,09:23,CATTRACKS Fall 2018- October Billing.xlsx,127.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,09:23,CATTRACKS Fall 2018- October Billing.xlsx,98.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Granville Apts,09:23,CATTRACKS Fall 2018- October Billing.xlsx,113.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Meadows/Olivewood,09:23,CATTRACKS Fall 2018- October Billing.xlsx,106.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Mercy Hospital,09:23,CATTRACKS Fall 2018- October Billing.xlsx,2.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Muir Pass,09:23,CATTRACKS Fall 2018- October Billing.xlsx,59.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,09:23,CATTRACKS Fall 2018- October Billing.xlsx,56.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Scholars/Emigrant,09:23,CATTRACKS Fall 2018- October Billing.xlsx,8.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Tri College/Mercy,09:23,CATTRACKS Fall 2018- October Billing.xlsx,1.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Walmart,09:23,CATTRACKS Fall 2018- October Billing.xlsx,5.0,563,9,Morning peak,Peak,1
+October 2018,C1 Gold,Alexander & G Street,10:42,CATTRACKS Fall 2018- October Billing.xlsx,81.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Arrow Wood Drive,10:42,CATTRACKS Fall 2018- October Billing.xlsx,222.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,10:42,CATTRACKS Fall 2018- October Billing.xlsx,23.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Granville Apts,10:42,CATTRACKS Fall 2018- October Billing.xlsx,105.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Meadows/Olivewood,10:42,CATTRACKS Fall 2018- October Billing.xlsx,39.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Mercy Hospital,10:42,CATTRACKS Fall 2018- October Billing.xlsx,17.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Muir Pass,10:42,CATTRACKS Fall 2018- October Billing.xlsx,141.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,10:42,CATTRACKS Fall 2018- October Billing.xlsx,58.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Scholars/Emigrant,10:42,CATTRACKS Fall 2018- October Billing.xlsx,13.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Walmart,10:42,CATTRACKS Fall 2018- October Billing.xlsx,6.0,642,10,Midday,Off-peak,1
+October 2018,C1 Gold,Alexander & G Street,12:01,CATTRACKS Fall 2018- October Billing.xlsx,60.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Arrow Wood Drive,12:01,CATTRACKS Fall 2018- October Billing.xlsx,97.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,12:01,CATTRACKS Fall 2018- October Billing.xlsx,25.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Granville Apts,12:01,CATTRACKS Fall 2018- October Billing.xlsx,100.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Meadows/Olivewood,12:01,CATTRACKS Fall 2018- October Billing.xlsx,19.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Mercy Hospital,12:01,CATTRACKS Fall 2018- October Billing.xlsx,9.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Muir Pass,12:01,CATTRACKS Fall 2018- October Billing.xlsx,109.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,12:01,CATTRACKS Fall 2018- October Billing.xlsx,49.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Scholars/Emigrant,12:01,CATTRACKS Fall 2018- October Billing.xlsx,15.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Walmart,12:01,CATTRACKS Fall 2018- October Billing.xlsx,4.0,721,12,Midday,Off-peak,1
+October 2018,C1 Gold,Alexander & G Street,13:40,CATTRACKS Fall 2018- October Billing.xlsx,39.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Arrow Wood Drive,13:40,CATTRACKS Fall 2018- October Billing.xlsx,106.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,13:40,CATTRACKS Fall 2018- October Billing.xlsx,29.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Granville Apts,13:40,CATTRACKS Fall 2018- October Billing.xlsx,58.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Meadows/Olivewood,13:40,CATTRACKS Fall 2018- October Billing.xlsx,17.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Mercy Hospital,13:40,CATTRACKS Fall 2018- October Billing.xlsx,5.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Muir Pass,13:40,CATTRACKS Fall 2018- October Billing.xlsx,253.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,13:40,CATTRACKS Fall 2018- October Billing.xlsx,53.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Scholars/Emigrant,13:40,CATTRACKS Fall 2018- October Billing.xlsx,36.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Walmart,13:40,CATTRACKS Fall 2018- October Billing.xlsx,7.0,820,13,Midday,Off-peak,1
+October 2018,C1 Gold,Alexander & G Street,14:59,CATTRACKS Fall 2018- October Billing.xlsx,25.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Arrow Wood Drive,14:59,CATTRACKS Fall 2018- October Billing.xlsx,54.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,14:59,CATTRACKS Fall 2018- October Billing.xlsx,41.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Granville Apts,14:59,CATTRACKS Fall 2018- October Billing.xlsx,33.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Meadows/Olivewood,14:59,CATTRACKS Fall 2018- October Billing.xlsx,31.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Mercy Hospital,14:59,CATTRACKS Fall 2018- October Billing.xlsx,4.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Muir Pass,14:59,CATTRACKS Fall 2018- October Billing.xlsx,241.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,14:59,CATTRACKS Fall 2018- October Billing.xlsx,35.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Scholars/Emigrant,14:59,CATTRACKS Fall 2018- October Billing.xlsx,38.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Tri College/Mercy,14:59,CATTRACKS Fall 2018- October Billing.xlsx,1.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Walmart,14:59,CATTRACKS Fall 2018- October Billing.xlsx,21.0,899,14,Midday,Off-peak,1
+October 2018,C1 Gold,Alexander & G Street,16:38,CATTRACKS Fall 2018- October Billing.xlsx,13.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Arrow Wood Drive,16:38,CATTRACKS Fall 2018- October Billing.xlsx,67.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,16:38,CATTRACKS Fall 2018- October Billing.xlsx,5.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Granville Apts,16:38,CATTRACKS Fall 2018- October Billing.xlsx,16.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Meadows/Olivewood,16:38,CATTRACKS Fall 2018- October Billing.xlsx,25.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Mercy Hospital,16:38,CATTRACKS Fall 2018- October Billing.xlsx,3.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Muir Pass,16:38,CATTRACKS Fall 2018- October Billing.xlsx,362.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,16:38,CATTRACKS Fall 2018- October Billing.xlsx,20.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Scholars/Emigrant,16:38,CATTRACKS Fall 2018- October Billing.xlsx,50.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Walmart,16:38,CATTRACKS Fall 2018- October Billing.xlsx,12.0,998,16,Evening peak,Peak,1
+October 2018,C1 Gold,Alexander & G Street,17:57,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Arrow Wood Drive,17:57,CATTRACKS Fall 2018- October Billing.xlsx,10.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,17:57,CATTRACKS Fall 2018- October Billing.xlsx,12.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Granville Apts,17:57,CATTRACKS Fall 2018- October Billing.xlsx,9.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Meadows/Olivewood,17:57,CATTRACKS Fall 2018- October Billing.xlsx,7.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Mercy Hospital,17:57,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Muir Pass,17:57,CATTRACKS Fall 2018- October Billing.xlsx,366.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,17:57,CATTRACKS Fall 2018- October Billing.xlsx,18.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Scholars/Emigrant,17:57,CATTRACKS Fall 2018- October Billing.xlsx,25.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Walmart,17:57,CATTRACKS Fall 2018- October Billing.xlsx,23.0,1077,17,Evening peak,Peak,1
+October 2018,C1 Gold,Alexander & G Street,19:16,CATTRACKS Fall 2018- October Billing.xlsx,8.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Arrow Wood Drive,19:16,CATTRACKS Fall 2018- October Billing.xlsx,15.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,19:16,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Granville Apts,19:16,CATTRACKS Fall 2018- October Billing.xlsx,20.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Meadows/Olivewood,19:16,CATTRACKS Fall 2018- October Billing.xlsx,11.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Mercy Hospital,19:16,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Muir Pass,19:16,CATTRACKS Fall 2018- October Billing.xlsx,219.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,19:16,CATTRACKS Fall 2018- October Billing.xlsx,19.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Scholars/Emigrant,19:16,CATTRACKS Fall 2018- October Billing.xlsx,34.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Walmart,19:16,CATTRACKS Fall 2018- October Billing.xlsx,14.0,1156,19,Night,Off-peak,1
+October 2018,C1 Gold,Alexander & G Street,20:55,CATTRACKS Fall 2018- October Billing.xlsx,7.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Arrow Wood Drive,20:55,CATTRACKS Fall 2018- October Billing.xlsx,9.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,20:55,CATTRACKS Fall 2018- October Billing.xlsx,3.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Granville Apts,20:55,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Meadows/Olivewood,20:55,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Muir Pass,20:55,CATTRACKS Fall 2018- October Billing.xlsx,153.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Rite Aid/Walgreen,20:55,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Scholars/Emigrant,20:55,CATTRACKS Fall 2018- October Billing.xlsx,22.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Tri College/Mercy,20:55,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Walmart,20:55,CATTRACKS Fall 2018- October Billing.xlsx,10.0,1255,20,Night,Off-peak,1
+October 2018,C1 Gold,Alexander & G Street,22:14,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1334,22,Night,Off-peak,1
+October 2018,C1 Gold,Arrow Wood Drive,22:14,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1334,22,Night,Off-peak,1
+October 2018,C1 Gold,El Portal Plaza / G Street,22:14,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1334,22,Night,Off-peak,1
+October 2018,C1 Gold,Granville Apts,22:14,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1334,22,Night,Off-peak,1
+October 2018,C1 Gold,Meadows/Olivewood,22:14,CATTRACKS Fall 2018- October Billing.xlsx,5.0,1334,22,Night,Off-peak,1
+October 2018,C1 Gold,Walmart,22:14,CATTRACKS Fall 2018- October Billing.xlsx,6.0,1334,22,Night,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,05:25,CATTRACKS Fall 2018- October Billing.xlsx,14.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,Buena Vista,05:25,CATTRACKS Fall 2018- October Billing.xlsx,26.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,Compass Pointe,05:25,CATTRACKS Fall 2018- October Billing.xlsx,5.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,Ironstone,05:25,CATTRACKS Fall 2018- October Billing.xlsx,11.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,Merced College,05:25,CATTRACKS Fall 2018- October Billing.xlsx,12.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,05:25,CATTRACKS Fall 2018- October Billing.xlsx,1.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,Muir Pass,05:25,CATTRACKS Fall 2018- October Billing.xlsx,1.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,05:25,CATTRACKS Fall 2018- October Billing.xlsx,4.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",05:25,CATTRACKS Fall 2018- October Billing.xlsx,1.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",05:25,CATTRACKS Fall 2018- October Billing.xlsx,28.0,325,5,Early morning,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,06:25,CATTRACKS Fall 2018- October Billing.xlsx,67.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,Buena Vista,06:25,CATTRACKS Fall 2018- October Billing.xlsx,91.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,Compass Pointe,06:25,CATTRACKS Fall 2018- October Billing.xlsx,29.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,El Redondo,06:25,CATTRACKS Fall 2018- October Billing.xlsx,19.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,Ironstone,06:25,CATTRACKS Fall 2018- October Billing.xlsx,37.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,Merced College,06:25,CATTRACKS Fall 2018- October Billing.xlsx,66.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,06:25,CATTRACKS Fall 2018- October Billing.xlsx,62.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,Muir Pass,06:25,CATTRACKS Fall 2018- October Billing.xlsx,13.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,06:25,CATTRACKS Fall 2018- October Billing.xlsx,2.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",06:25,CATTRACKS Fall 2018- October Billing.xlsx,1.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",06:25,CATTRACKS Fall 2018- October Billing.xlsx,112.0,385,6,Early morning,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,07:45,CATTRACKS Fall 2018- October Billing.xlsx,182.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,Buena Vista,07:45,CATTRACKS Fall 2018- October Billing.xlsx,148.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,Compass Pointe,07:45,CATTRACKS Fall 2018- October Billing.xlsx,42.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,El Redondo,07:45,CATTRACKS Fall 2018- October Billing.xlsx,45.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,Ironstone,07:45,CATTRACKS Fall 2018- October Billing.xlsx,90.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,Merced College,07:45,CATTRACKS Fall 2018- October Billing.xlsx,36.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,Merced Mall Target,07:45,CATTRACKS Fall 2018- October Billing.xlsx,148.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,Muir Pass,07:45,CATTRACKS Fall 2018- October Billing.xlsx,50.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,Scholars/Emigrant,07:45,CATTRACKS Fall 2018- October Billing.xlsx,11.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",07:45,CATTRACKS Fall 2018- October Billing.xlsx,5.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,"Villages Apts ""M""",07:45,CATTRACKS Fall 2018- October Billing.xlsx,177.0,465,7,Morning peak,Peak,1
+October 2018,C2 Express,Arrow Wood Drive,08:45,CATTRACKS Fall 2018- October Billing.xlsx,119.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,Buena Vista,08:45,CATTRACKS Fall 2018- October Billing.xlsx,111.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,Compass Pointe,08:45,CATTRACKS Fall 2018- October Billing.xlsx,43.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,El Redondo,08:45,CATTRACKS Fall 2018- October Billing.xlsx,65.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,Ironstone,08:45,CATTRACKS Fall 2018- October Billing.xlsx,52.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,Merced College,08:45,CATTRACKS Fall 2018- October Billing.xlsx,17.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,Merced Mall Target,08:45,CATTRACKS Fall 2018- October Billing.xlsx,118.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,Muir Pass,08:45,CATTRACKS Fall 2018- October Billing.xlsx,178.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,Scholars/Emigrant,08:45,CATTRACKS Fall 2018- October Billing.xlsx,13.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",08:45,CATTRACKS Fall 2018- October Billing.xlsx,4.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,"Villages Apts ""M""",08:45,CATTRACKS Fall 2018- October Billing.xlsx,136.0,525,8,Morning peak,Peak,1
+October 2018,C2 Express,Arrow Wood Drive,09:45,CATTRACKS Fall 2018- October Billing.xlsx,230.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,Buena Vista,09:45,CATTRACKS Fall 2018- October Billing.xlsx,113.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,Compass Pointe,09:45,CATTRACKS Fall 2018- October Billing.xlsx,25.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,El Redondo,09:45,CATTRACKS Fall 2018- October Billing.xlsx,62.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,Ironstone,09:45,CATTRACKS Fall 2018- October Billing.xlsx,54.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,Merced College,09:45,CATTRACKS Fall 2018- October Billing.xlsx,20.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,Merced Mall Target,09:45,CATTRACKS Fall 2018- October Billing.xlsx,107.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,Muir Pass,09:45,CATTRACKS Fall 2018- October Billing.xlsx,191.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,Scholars/Emigrant,09:45,CATTRACKS Fall 2018- October Billing.xlsx,31.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",09:45,CATTRACKS Fall 2018- October Billing.xlsx,6.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,"Villages Apts ""M""",09:45,CATTRACKS Fall 2018- October Billing.xlsx,121.0,585,9,Morning peak,Peak,1
+October 2018,C2 Express,Arrow Wood Drive,11:05,CATTRACKS Fall 2018- October Billing.xlsx,280.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,Buena Vista,11:05,CATTRACKS Fall 2018- October Billing.xlsx,72.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,Compass Pointe,11:05,CATTRACKS Fall 2018- October Billing.xlsx,20.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,El Redondo,11:05,CATTRACKS Fall 2018- October Billing.xlsx,85.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,Ironstone,11:05,CATTRACKS Fall 2018- October Billing.xlsx,26.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,Merced College,11:05,CATTRACKS Fall 2018- October Billing.xlsx,9.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,11:05,CATTRACKS Fall 2018- October Billing.xlsx,95.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,Muir Pass,11:05,CATTRACKS Fall 2018- October Billing.xlsx,429.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,11:05,CATTRACKS Fall 2018- October Billing.xlsx,45.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",11:05,CATTRACKS Fall 2018- October Billing.xlsx,19.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",11:05,CATTRACKS Fall 2018- October Billing.xlsx,92.0,665,11,Midday,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,12:05,CATTRACKS Fall 2018- October Billing.xlsx,135.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,Buena Vista,12:05,CATTRACKS Fall 2018- October Billing.xlsx,54.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,Compass Pointe,12:05,CATTRACKS Fall 2018- October Billing.xlsx,11.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,El Redondo,12:05,CATTRACKS Fall 2018- October Billing.xlsx,29.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,Ironstone,12:05,CATTRACKS Fall 2018- October Billing.xlsx,30.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,Merced College,12:05,CATTRACKS Fall 2018- October Billing.xlsx,6.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,12:05,CATTRACKS Fall 2018- October Billing.xlsx,112.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,Muir Pass,12:05,CATTRACKS Fall 2018- October Billing.xlsx,307.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,12:05,CATTRACKS Fall 2018- October Billing.xlsx,87.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",12:05,CATTRACKS Fall 2018- October Billing.xlsx,12.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",12:05,CATTRACKS Fall 2018- October Billing.xlsx,81.0,725,12,Midday,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,13:05,CATTRACKS Fall 2018- October Billing.xlsx,25.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,Buena Vista,13:05,CATTRACKS Fall 2018- October Billing.xlsx,26.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,Compass Pointe,13:05,CATTRACKS Fall 2018- October Billing.xlsx,1.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,El Redondo,13:05,CATTRACKS Fall 2018- October Billing.xlsx,13.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,Ironstone,13:05,CATTRACKS Fall 2018- October Billing.xlsx,13.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,Merced College,13:05,CATTRACKS Fall 2018- October Billing.xlsx,2.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,13:05,CATTRACKS Fall 2018- October Billing.xlsx,87.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,Muir Pass,13:05,CATTRACKS Fall 2018- October Billing.xlsx,451.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,13:05,CATTRACKS Fall 2018- October Billing.xlsx,128.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",13:05,CATTRACKS Fall 2018- October Billing.xlsx,10.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",13:05,CATTRACKS Fall 2018- October Billing.xlsx,27.0,785,13,Midday,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,14:25,CATTRACKS Fall 2018- October Billing.xlsx,115.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,Buena Vista,14:25,CATTRACKS Fall 2018- October Billing.xlsx,39.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,Compass Pointe,14:25,CATTRACKS Fall 2018- October Billing.xlsx,23.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,El Redondo,14:25,CATTRACKS Fall 2018- October Billing.xlsx,30.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,Ironstone,14:25,CATTRACKS Fall 2018- October Billing.xlsx,5.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,Merced College,14:25,CATTRACKS Fall 2018- October Billing.xlsx,7.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,14:25,CATTRACKS Fall 2018- October Billing.xlsx,154.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,Muir Pass,14:25,CATTRACKS Fall 2018- October Billing.xlsx,607.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,14:25,CATTRACKS Fall 2018- October Billing.xlsx,86.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",14:25,CATTRACKS Fall 2018- October Billing.xlsx,16.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",14:25,CATTRACKS Fall 2018- October Billing.xlsx,60.0,865,14,Midday,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,15:25,CATTRACKS Fall 2018- October Billing.xlsx,46.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,Buena Vista,15:25,CATTRACKS Fall 2018- October Billing.xlsx,31.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,Compass Pointe,15:25,CATTRACKS Fall 2018- October Billing.xlsx,15.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,El Redondo,15:25,CATTRACKS Fall 2018- October Billing.xlsx,27.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,Ironstone,15:25,CATTRACKS Fall 2018- October Billing.xlsx,12.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,Merced College,15:25,CATTRACKS Fall 2018- October Billing.xlsx,3.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,15:25,CATTRACKS Fall 2018- October Billing.xlsx,202.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,Muir Pass,15:25,CATTRACKS Fall 2018- October Billing.xlsx,574.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,15:25,CATTRACKS Fall 2018- October Billing.xlsx,149.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",15:25,CATTRACKS Fall 2018- October Billing.xlsx,20.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",15:25,CATTRACKS Fall 2018- October Billing.xlsx,45.0,925,15,Midday,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,16:25,CATTRACKS Fall 2018- October Billing.xlsx,44.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,Buena Vista,16:25,CATTRACKS Fall 2018- October Billing.xlsx,41.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,Compass Pointe,16:25,CATTRACKS Fall 2018- October Billing.xlsx,10.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,El Redondo,16:25,CATTRACKS Fall 2018- October Billing.xlsx,4.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,Ironstone,16:25,CATTRACKS Fall 2018- October Billing.xlsx,7.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,Merced College,16:25,CATTRACKS Fall 2018- October Billing.xlsx,4.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,Merced Mall Target,16:25,CATTRACKS Fall 2018- October Billing.xlsx,225.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,Muir Pass,16:25,CATTRACKS Fall 2018- October Billing.xlsx,775.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,Scholars/Emigrant,16:25,CATTRACKS Fall 2018- October Billing.xlsx,124.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",16:25,CATTRACKS Fall 2018- October Billing.xlsx,12.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,"Villages Apts ""M""",16:25,CATTRACKS Fall 2018- October Billing.xlsx,43.0,985,16,Evening peak,Peak,1
+October 2018,C2 Express,Arrow Wood Drive,17:45,CATTRACKS Fall 2018- October Billing.xlsx,18.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,Buena Vista,17:45,CATTRACKS Fall 2018- October Billing.xlsx,15.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,Compass Pointe,17:45,CATTRACKS Fall 2018- October Billing.xlsx,7.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,El Redondo,17:45,CATTRACKS Fall 2018- October Billing.xlsx,14.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,Ironstone,17:45,CATTRACKS Fall 2018- October Billing.xlsx,9.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,Merced College,17:45,CATTRACKS Fall 2018- October Billing.xlsx,11.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,Merced Mall Target,17:45,CATTRACKS Fall 2018- October Billing.xlsx,264.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,Muir Pass,17:45,CATTRACKS Fall 2018- October Billing.xlsx,666.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,Scholars/Emigrant,17:45,CATTRACKS Fall 2018- October Billing.xlsx,94.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",17:45,CATTRACKS Fall 2018- October Billing.xlsx,23.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,"Villages Apts ""M""",17:45,CATTRACKS Fall 2018- October Billing.xlsx,16.0,1065,17,Evening peak,Peak,1
+October 2018,C2 Express,Arrow Wood Drive,18:45,CATTRACKS Fall 2018- October Billing.xlsx,16.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Buena Vista,18:45,CATTRACKS Fall 2018- October Billing.xlsx,7.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Cardella & M St.,18:45,CATTRACKS Fall 2018- October Billing.xlsx,8.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Compass Pointe,18:45,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,El Redondo,18:45,CATTRACKS Fall 2018- October Billing.xlsx,12.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Ironstone,18:45,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Merced College,18:45,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Merced Mall Target,18:45,CATTRACKS Fall 2018- October Billing.xlsx,213.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Muir Pass,18:45,CATTRACKS Fall 2018- October Billing.xlsx,663.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Scholars/Emigrant,18:45,CATTRACKS Fall 2018- October Billing.xlsx,83.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",18:45,CATTRACKS Fall 2018- October Billing.xlsx,18.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,"Villages Apts ""M""",18:45,CATTRACKS Fall 2018- October Billing.xlsx,14.0,1125,18,Evening peak,Peak,1
+October 2018,C2 Express,Arrow Wood Drive,19:45,CATTRACKS Fall 2018- October Billing.xlsx,5.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,Buena Vista,19:45,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,Compass Pointe,19:45,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,El Redondo,19:45,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,Ironstone,19:45,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,Merced College,19:45,CATTRACKS Fall 2018- October Billing.xlsx,5.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,19:45,CATTRACKS Fall 2018- October Billing.xlsx,274.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,Muir Pass,19:45,CATTRACKS Fall 2018- October Billing.xlsx,558.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,19:45,CATTRACKS Fall 2018- October Billing.xlsx,64.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",19:45,CATTRACKS Fall 2018- October Billing.xlsx,12.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",19:45,CATTRACKS Fall 2018- October Billing.xlsx,5.0,1185,19,Night,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,20:45,CATTRACKS Fall 2018- October Billing.xlsx,6.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,Buena Vista,20:45,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,Compass Pointe,20:45,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,El Redondo,20:45,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,Ironstone,20:45,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,Merced College,20:45,CATTRACKS Fall 2018- October Billing.xlsx,6.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,20:45,CATTRACKS Fall 2018- October Billing.xlsx,225.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,Muir Pass,20:45,CATTRACKS Fall 2018- October Billing.xlsx,219.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,20:45,CATTRACKS Fall 2018- October Billing.xlsx,24.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",20:45,CATTRACKS Fall 2018- October Billing.xlsx,12.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",20:45,CATTRACKS Fall 2018- October Billing.xlsx,6.0,1245,20,Night,Off-peak,1
+October 2018,C2 Express,Arrow Wood Drive,22:05,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,Compass Pointe,22:05,CATTRACKS Fall 2018- October Billing.xlsx,3.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,El Redondo,22:05,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,Ironstone,22:05,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,Merced College,22:05,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,Merced Mall Target,22:05,CATTRACKS Fall 2018- October Billing.xlsx,148.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,Muir Pass,22:05,CATTRACKS Fall 2018- October Billing.xlsx,44.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,Scholars/Emigrant,22:05,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,"Village Apts ""R"" Street",22:05,CATTRACKS Fall 2018- October Billing.xlsx,6.0,1325,22,Night,Off-peak,1
+October 2018,C2 Express,"Villages Apts ""M""",22:05,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1325,22,Night,Off-peak,1
+October 2018,G-Line,Amtrak,06:00,CATTRACKS Fall 2018- October Billing.xlsx,1.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,Arrow Wood Drive,06:00,CATTRACKS Fall 2018- October Billing.xlsx,19.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,Compass Pointe,06:00,CATTRACKS Fall 2018- October Billing.xlsx,2.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,El Redondo,06:00,CATTRACKS Fall 2018- October Billing.xlsx,2.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,Ironstone,06:00,CATTRACKS Fall 2018- October Billing.xlsx,11.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,K 18th+19th,06:00,CATTRACKS Fall 2018- October Billing.xlsx,10.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,Merced College,06:00,CATTRACKS Fall 2018- October Billing.xlsx,5.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,Muir Pass,06:00,CATTRACKS Fall 2018- October Billing.xlsx,16.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,Scholars/Emigrant,06:00,CATTRACKS Fall 2018- October Billing.xlsx,16.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",06:00,CATTRACKS Fall 2018- October Billing.xlsx,13.0,360,6,Early morning,Off-peak,1
+October 2018,G-Line,Amtrak,07:07,CATTRACKS Fall 2018- October Billing.xlsx,16.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,Arrow Wood Drive,07:07,CATTRACKS Fall 2018- October Billing.xlsx,76.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,Compass Pointe,07:07,CATTRACKS Fall 2018- October Billing.xlsx,66.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,El Redondo,07:07,CATTRACKS Fall 2018- October Billing.xlsx,127.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,Ironstone,07:07,CATTRACKS Fall 2018- October Billing.xlsx,39.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,K 18th+19th,07:07,CATTRACKS Fall 2018- October Billing.xlsx,10.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,Merced College,07:07,CATTRACKS Fall 2018- October Billing.xlsx,6.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,Muir Pass,07:07,CATTRACKS Fall 2018- October Billing.xlsx,32.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,Scholars/Emigrant,07:07,CATTRACKS Fall 2018- October Billing.xlsx,25.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",07:07,CATTRACKS Fall 2018- October Billing.xlsx,8.0,427,7,Morning peak,Peak,1
+October 2018,G-Line,Amtrak,08:34,CATTRACKS Fall 2018- October Billing.xlsx,29.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,Arrow Wood Drive,08:34,CATTRACKS Fall 2018- October Billing.xlsx,269.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,Compass Pointe,08:34,CATTRACKS Fall 2018- October Billing.xlsx,165.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,El Redondo,08:34,CATTRACKS Fall 2018- October Billing.xlsx,199.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,Ironstone,08:34,CATTRACKS Fall 2018- October Billing.xlsx,88.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,K 18th+19th,08:34,CATTRACKS Fall 2018- October Billing.xlsx,6.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,Merced College,08:34,CATTRACKS Fall 2018- October Billing.xlsx,38.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,Muir Pass,08:34,CATTRACKS Fall 2018- October Billing.xlsx,23.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,Scholars/Emigrant,08:34,CATTRACKS Fall 2018- October Billing.xlsx,1.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",08:34,CATTRACKS Fall 2018- October Billing.xlsx,49.0,514,8,Morning peak,Peak,1
+October 2018,G-Line,Amtrak,09:41,CATTRACKS Fall 2018- October Billing.xlsx,6.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,Arrow Wood Drive,09:41,CATTRACKS Fall 2018- October Billing.xlsx,201.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,Compass Pointe,09:41,CATTRACKS Fall 2018- October Billing.xlsx,71.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,El Redondo,09:41,CATTRACKS Fall 2018- October Billing.xlsx,123.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,Ironstone,09:41,CATTRACKS Fall 2018- October Billing.xlsx,72.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,K 18th+19th,09:41,CATTRACKS Fall 2018- October Billing.xlsx,8.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,Merced College,09:41,CATTRACKS Fall 2018- October Billing.xlsx,37.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,Muir Pass,09:41,CATTRACKS Fall 2018- October Billing.xlsx,43.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,Scholars/Emigrant,09:41,CATTRACKS Fall 2018- October Billing.xlsx,26.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",09:41,CATTRACKS Fall 2018- October Billing.xlsx,27.0,581,9,Morning peak,Peak,1
+October 2018,G-Line,Amtrak,10:48,CATTRACKS Fall 2018- October Billing.xlsx,6.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,Arrow Wood Drive,10:48,CATTRACKS Fall 2018- October Billing.xlsx,155.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,Compass Pointe,10:48,CATTRACKS Fall 2018- October Billing.xlsx,59.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,El Redondo,10:48,CATTRACKS Fall 2018- October Billing.xlsx,96.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,Ironstone,10:48,CATTRACKS Fall 2018- October Billing.xlsx,42.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,K 18th+19th,10:48,CATTRACKS Fall 2018- October Billing.xlsx,8.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,Merced College,10:48,CATTRACKS Fall 2018- October Billing.xlsx,25.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,Muir Pass,10:48,CATTRACKS Fall 2018- October Billing.xlsx,110.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,Scholars/Emigrant,10:48,CATTRACKS Fall 2018- October Billing.xlsx,35.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",10:48,CATTRACKS Fall 2018- October Billing.xlsx,10.0,648,10,Midday,Off-peak,1
+October 2018,G-Line,Amtrak,12:15,CATTRACKS Fall 2018- October Billing.xlsx,35.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,Arrow Wood Drive,12:15,CATTRACKS Fall 2018- October Billing.xlsx,61.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,Compass Pointe,12:15,CATTRACKS Fall 2018- October Billing.xlsx,64.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,El Redondo,12:15,CATTRACKS Fall 2018- October Billing.xlsx,74.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,Ironstone,12:15,CATTRACKS Fall 2018- October Billing.xlsx,17.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,K 18th+19th,12:15,CATTRACKS Fall 2018- October Billing.xlsx,15.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,Merced College,12:15,CATTRACKS Fall 2018- October Billing.xlsx,15.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,Muir Pass,12:15,CATTRACKS Fall 2018- October Billing.xlsx,69.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,Scholars/Emigrant,12:15,CATTRACKS Fall 2018- October Billing.xlsx,15.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",12:15,CATTRACKS Fall 2018- October Billing.xlsx,29.0,735,12,Midday,Off-peak,1
+October 2018,G-Line,Amtrak,13:22,CATTRACKS Fall 2018- October Billing.xlsx,4.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,Arrow Wood Drive,13:22,CATTRACKS Fall 2018- October Billing.xlsx,176.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,Compass Pointe,13:22,CATTRACKS Fall 2018- October Billing.xlsx,26.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,El Redondo,13:22,CATTRACKS Fall 2018- October Billing.xlsx,37.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,Ironstone,13:22,CATTRACKS Fall 2018- October Billing.xlsx,28.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,K 18th+19th,13:22,CATTRACKS Fall 2018- October Billing.xlsx,29.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,Merced College,13:22,CATTRACKS Fall 2018- October Billing.xlsx,4.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,Muir Pass,13:22,CATTRACKS Fall 2018- October Billing.xlsx,193.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,Scholars/Emigrant,13:22,CATTRACKS Fall 2018- October Billing.xlsx,59.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",13:22,CATTRACKS Fall 2018- October Billing.xlsx,9.0,802,13,Midday,Off-peak,1
+October 2018,G-Line,Amtrak,14:29,CATTRACKS Fall 2018- October Billing.xlsx,29.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,Arrow Wood Drive,14:29,CATTRACKS Fall 2018- October Billing.xlsx,56.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,Compass Pointe,14:29,CATTRACKS Fall 2018- October Billing.xlsx,50.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,El Redondo,14:29,CATTRACKS Fall 2018- October Billing.xlsx,39.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,Ironstone,14:29,CATTRACKS Fall 2018- October Billing.xlsx,6.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,K 18th+19th,14:29,CATTRACKS Fall 2018- October Billing.xlsx,58.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,Merced College,14:29,CATTRACKS Fall 2018- October Billing.xlsx,19.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,Muir Pass,14:29,CATTRACKS Fall 2018- October Billing.xlsx,157.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,Scholars/Emigrant,14:29,CATTRACKS Fall 2018- October Billing.xlsx,44.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",14:29,CATTRACKS Fall 2018- October Billing.xlsx,11.0,869,14,Midday,Off-peak,1
+October 2018,G-Line,Amtrak,15:56,CATTRACKS Fall 2018- October Billing.xlsx,13.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,Arrow Wood Drive,15:56,CATTRACKS Fall 2018- October Billing.xlsx,72.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,Compass Pointe,15:56,CATTRACKS Fall 2018- October Billing.xlsx,32.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,El Redondo,15:56,CATTRACKS Fall 2018- October Billing.xlsx,34.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,Ironstone,15:56,CATTRACKS Fall 2018- October Billing.xlsx,14.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,K 18th+19th,15:56,CATTRACKS Fall 2018- October Billing.xlsx,27.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,Merced College,15:56,CATTRACKS Fall 2018- October Billing.xlsx,26.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,Muir Pass,15:56,CATTRACKS Fall 2018- October Billing.xlsx,104.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,Scholars/Emigrant,15:56,CATTRACKS Fall 2018- October Billing.xlsx,46.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",15:56,CATTRACKS Fall 2018- October Billing.xlsx,2.0,956,15,Midday,Off-peak,1
+October 2018,G-Line,Amtrak,17:03,CATTRACKS Fall 2018- October Billing.xlsx,32.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,Arrow Wood Drive,17:03,CATTRACKS Fall 2018- October Billing.xlsx,14.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,Compass Pointe,17:03,CATTRACKS Fall 2018- October Billing.xlsx,21.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,El Redondo,17:03,CATTRACKS Fall 2018- October Billing.xlsx,29.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,Ironstone,17:03,CATTRACKS Fall 2018- October Billing.xlsx,5.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,K 18th+19th,17:03,CATTRACKS Fall 2018- October Billing.xlsx,44.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,Merced College,17:03,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,Muir Pass,17:03,CATTRACKS Fall 2018- October Billing.xlsx,168.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,Scholars/Emigrant,17:03,CATTRACKS Fall 2018- October Billing.xlsx,72.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",17:03,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1023,17,Evening peak,Peak,1
+October 2018,G-Line,Amtrak,18:10,CATTRACKS Fall 2018- October Billing.xlsx,27.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,Arrow Wood Drive,18:10,CATTRACKS Fall 2018- October Billing.xlsx,24.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,Compass Pointe,18:10,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,El Redondo,18:10,CATTRACKS Fall 2018- October Billing.xlsx,14.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,Ironstone,18:10,CATTRACKS Fall 2018- October Billing.xlsx,3.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,K 18th+19th,18:10,CATTRACKS Fall 2018- October Billing.xlsx,31.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,Merced College,18:10,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,Muir Pass,18:10,CATTRACKS Fall 2018- October Billing.xlsx,98.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,Scholars/Emigrant,18:10,CATTRACKS Fall 2018- October Billing.xlsx,65.0,1090,18,Evening peak,Peak,1
+October 2018,G-Line,Amtrak,19:17,CATTRACKS Fall 2018- October Billing.xlsx,13.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,Arrow Wood Drive,19:17,CATTRACKS Fall 2018- October Billing.xlsx,20.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,Compass Pointe,19:17,CATTRACKS Fall 2018- October Billing.xlsx,4.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,El Redondo,19:17,CATTRACKS Fall 2018- October Billing.xlsx,10.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,Ironstone,19:17,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,K 18th+19th,19:17,CATTRACKS Fall 2018- October Billing.xlsx,23.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,Merced College,19:17,CATTRACKS Fall 2018- October Billing.xlsx,12.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,Muir Pass,19:17,CATTRACKS Fall 2018- October Billing.xlsx,74.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,Scholars/Emigrant,19:17,CATTRACKS Fall 2018- October Billing.xlsx,13.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",19:17,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1157,19,Night,Off-peak,1
+October 2018,G-Line,Amtrak,20:24,CATTRACKS Fall 2018- October Billing.xlsx,14.0,1224,20,Night,Off-peak,1
+October 2018,G-Line,Arrow Wood Drive,20:24,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1224,20,Night,Off-peak,1
+October 2018,G-Line,Compass Pointe,20:24,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1224,20,Night,Off-peak,1
+October 2018,G-Line,Ironstone,20:24,CATTRACKS Fall 2018- October Billing.xlsx,1.0,1224,20,Night,Off-peak,1
+October 2018,G-Line,K 18th+19th,20:24,CATTRACKS Fall 2018- October Billing.xlsx,3.0,1224,20,Night,Off-peak,1
+October 2018,G-Line,Merced College,20:24,CATTRACKS Fall 2018- October Billing.xlsx,2.0,1224,20,Night,Off-peak,1
+October 2018,G-Line,Muir Pass,20:24,CATTRACKS Fall 2018- October Billing.xlsx,56.0,1224,20,Night,Off-peak,1
+October 2018,G-Line,Scholars/Emigrant,20:24,CATTRACKS Fall 2018- October Billing.xlsx,21.0,1224,20,Night,Off-peak,1
+October 2018,G-Line,"Village Apts ""R"" Street",20:24,CATTRACKS Fall 2018- October Billing.xlsx,5.0,1224,20,Night,Off-peak,1

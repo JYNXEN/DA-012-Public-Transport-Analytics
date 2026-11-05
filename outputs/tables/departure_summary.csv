@@ -1,0 +1,110 @@
+period,route,departure_time,departure_minutes,passenger_count
+February 2019,C1 Blue,05:45,345,24.0
+February 2019,C1 Blue,07:04,424,324.0
+February 2019,C1 Blue,08:43,523,679.0
+February 2019,C1 Blue,10:02,602,441.0
+February 2019,C1 Blue,11:21,681,431.0
+February 2019,C1 Blue,13:00,780,402.0
+February 2019,C1 Blue,14:19,859,516.0
+February 2019,C1 Blue,15:58,958,485.0
+February 2019,C1 Blue,17:17,1037,509.0
+February 2019,C1 Blue,18:36,1116,289.0
+February 2019,C1 Blue,20:15,1215,123.0
+February 2019,C1 Blue,21:34,1294,65.0
+February 2019,C1 Blue,23:28,1408,16.0
+February 2019,C1 Gold,06:25,385,266.0
+February 2019,C1 Gold,07:44,464,626.0
+February 2019,C1 Gold,09:23,563,544.0
+February 2019,C1 Gold,10:42,642,542.0
+February 2019,C1 Gold,12:01,721,433.0
+February 2019,C1 Gold,13:40,820,330.0
+February 2019,C1 Gold,14:59,899,397.0
+February 2019,C1 Gold,16:38,998,392.0
+February 2019,C1 Gold,17:57,1077,213.0
+February 2019,C1 Gold,19:16,1156,147.0
+February 2019,C1 Gold,20:55,1255,106.0
+February 2019,C1 Gold,22:14,1334,9.0
+February 2019,C2 Express,05:25,325,57.0
+February 2019,C2 Express,06:25,385,267.0
+February 2019,C2 Express,07:45,465,745.0
+February 2019,C2 Express,08:45,525,921.0
+February 2019,C2 Express,09:45,585,949.0
+February 2019,C2 Express,11:05,665,1112.0
+February 2019,C2 Express,12:05,725,745.0
+February 2019,C2 Express,13:05,785,813.0
+February 2019,C2 Express,14:25,865,1156.0
+February 2019,C2 Express,15:25,925,953.0
+February 2019,C2 Express,16:25,985,1242.0
+February 2019,C2 Express,17:45,1065,1017.0
+February 2019,C2 Express,18:45,1125,905.0
+February 2019,C2 Express,19:45,1185,583.0
+February 2019,C2 Express,20:45,1245,445.0
+February 2019,C2 Express,22:05,1325,143.0
+February 2019,G-Line,05:40,340,110.0
+February 2019,G-Line,06:47,407,466.0
+February 2019,G-Line,08:14,494,1012.0
+February 2019,G-Line,09:21,561,1005.0
+February 2019,G-Line,10:28,628,827.0
+February 2019,G-Line,11:55,715,506.0
+February 2019,G-Line,13:02,782,658.0
+February 2019,G-Line,14:09,849,473.0
+February 2019,G-Line,15:36,936,350.0
+February 2019,G-Line,16:43,1003,469.0
+February 2019,G-Line,17:50,1070,201.0
+February 2019,G-Line,19:17,1157,143.0
+February 2019,G-Line,20:24,1224,68.0
+February 2019,G-Line,21:31,1291,11.0
+October 2018,C1 Blue,05:45,345,64.0
+October 2018,C1 Blue,07:04,424,492.0
+October 2018,C1 Blue,08:43,523,879.0
+October 2018,C1 Blue,10:02,602,607.0
+October 2018,C1 Blue,11:21,681,645.0
+October 2018,C1 Blue,13:00,780,475.0
+October 2018,C1 Blue,14:19,859,613.0
+October 2018,C1 Blue,15:58,958,672.0
+October 2018,C1 Blue,17:17,1037,763.0
+October 2018,C1 Blue,18:36,1116,433.0
+October 2018,C1 Blue,20:15,1215,191.0
+October 2018,C1 Blue,21:34,1294,104.0
+October 2018,C1 Blue,23:28,1408,38.0
+October 2018,C1 Gold,06:25,385,395.0
+October 2018,C1 Gold,07:44,464,816.0
+October 2018,C1 Gold,09:23,563,677.0
+October 2018,C1 Gold,10:42,642,705.0
+October 2018,C1 Gold,12:01,721,487.0
+October 2018,C1 Gold,13:40,820,603.0
+October 2018,C1 Gold,14:59,899,524.0
+October 2018,C1 Gold,16:38,998,573.0
+October 2018,C1 Gold,17:57,1077,475.0
+October 2018,C1 Gold,19:16,1156,343.0
+October 2018,C1 Gold,20:55,1255,213.0
+October 2018,C1 Gold,22:14,1334,18.0
+October 2018,C2 Express,05:25,325,103.0
+October 2018,C2 Express,06:25,385,499.0
+October 2018,C2 Express,07:45,465,934.0
+October 2018,C2 Express,08:45,525,856.0
+October 2018,C2 Express,09:45,585,960.0
+October 2018,C2 Express,11:05,665,1172.0
+October 2018,C2 Express,12:05,725,864.0
+October 2018,C2 Express,13:05,785,783.0
+October 2018,C2 Express,14:25,865,1142.0
+October 2018,C2 Express,15:25,925,1124.0
+October 2018,C2 Express,16:25,985,1289.0
+October 2018,C2 Express,17:45,1065,1137.0
+October 2018,C2 Express,18:45,1125,1041.0
+October 2018,C2 Express,19:45,1185,930.0
+October 2018,C2 Express,20:45,1245,505.0
+October 2018,C2 Express,22:05,1325,213.0
+October 2018,G-Line,06:00,360,95.0
+October 2018,G-Line,07:07,427,405.0
+October 2018,G-Line,08:34,514,867.0
+October 2018,G-Line,09:41,581,614.0
+October 2018,G-Line,10:48,648,546.0
+October 2018,G-Line,12:15,735,394.0
+October 2018,G-Line,13:22,802,565.0
+October 2018,G-Line,14:29,869,469.0
+October 2018,G-Line,15:56,956,370.0
+October 2018,G-Line,17:03,1023,391.0
+October 2018,G-Line,18:10,1090,268.0
+October 2018,G-Line,19:17,1157,172.0
+October 2018,G-Line,20:24,1224,105.0
