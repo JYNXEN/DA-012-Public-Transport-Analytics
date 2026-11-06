@@ -390,6 +390,40 @@ Potential future development includes:
 
 ---
 
+---
+
+## Application Screenshots
+
+Explore the CatTracks Ridership Intelligence dashboard and its analytical capabilities.
+
+### Dashboard Overview
+
+The main dashboard provides an overview of passenger boardings, route comparisons and key transportation analytics.
+
+![Dashboard Overview](Screenshots/Dashboard2.png)
+
+### Geospatial Analysis
+
+Explore historical bus-stop locations, geographical passenger demand and interactive map-based analytics.
+
+![Geospatial Analysis](Screenshots/Dashboard.png)
+
+### Routes & Stops Analysis
+
+Compare passenger demand across routes and identify the busiest bus stops.
+
+![Routes and Stops](Screenshots/Routes%20and%20stops.png)
+
+### Time-Based Analysis
+
+Examine scheduled departure patterns and compare peak and off-peak passenger demand.
+
+![Time Patterns](Screenshots/Time%20pattern.png)
+
+---
+
+
+
 ## Author
 
 **Mohd. Shoaib**
